@@ -1,3 +1,0 @@
-======= a1
-
-{{c1::Maple syrup urine disease::Disease}} causes buildup of {{c2::branched chain amino acids::amino acid class}}, which includes {{c3::leucine, isoleucine, valine}}
