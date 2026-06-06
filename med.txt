@@ -9,5 +9,11 @@ Cholecystitis causes referred pain to {{c1::right shoulder}}
 Lack of platelet aggregation with ristocetin, but corrected with normal plasma = {{c1::von Willebrand Disease}}
 
 ======= a1
+0 6/6/2026 02:11 UTC
+0 6/6/2026 02:11 UTC
 
 Maple syrup urine disease causes buildup of {{c1::branched chain amino acids::amino acid class}}, which includes {{c2::leucine, isoleucine, valine}}
+
+======= a1
+
+{{c1::Maple syrup urine disease::Disease}} causes buildup of {{c2::branched chain amino acids::amino acid class}}, which includes {{c3::leucine, isoleucine, valine}}
