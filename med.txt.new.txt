@@ -1,7 +1,0 @@
-=======
-
-Cholecystitis causes referred pain to {{c1::right shoulder}}
-
-=======
-
-Lack of platelet aggregation with ristocetin, but corrected with normal plasma = {{c1::von Willebrand Disease}}
