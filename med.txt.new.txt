@@ -65,3 +65,13 @@ Gonococcal septic arthritis is diagnosed by synovial fluid analysis + {{c1::NAAT
 =======
 
 {{c1::Migratory Polyarthralgia}} + {{c2::Tenosynovitis}} + {{c3::Dermatitis (painless, nonitchy)}} = {{c4::Disseminated Gonoccal Infection}}
+
+=======
+
+Hydrochlorothiazide increases blood levels of {{c1::Glucose}}, {{c2::Lipids}}, {{c3::Uric acid}}, {{c4::Calcium}}
+
+=======
+
+Hydrochlorothiazide classically reduces blood levels of {{c1::Potassium}} and {{c2::Magnesium}}
+
+
