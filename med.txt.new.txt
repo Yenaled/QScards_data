@@ -45,3 +45,7 @@ Cardiogenic shock first-line drugs = {{c1::Dobutamine (inotropic support)}} + {{
 =======
 
 Acute pulmonary edema + severe hypertension + new diastolic murmur = {{c1::Type A aortic dissection (hint: AR murmur)}}
+
+=======
+
+Aortic dissection: Most common cause = {{c1::Hypertension}}
