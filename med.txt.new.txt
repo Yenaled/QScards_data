@@ -53,3 +53,7 @@ Aortic dissection: Most common cause = {{c1::Hypertension}}
 =======
 
 {{c1::Postprandial abdominal pain}} + {{c2::food fear}} + {{c3::weight loss}} = {{c4::chronic mesenteric ischemia}}
+
+=======
+
+Nonpurulent Cellulitis = commonly caused by {{c1::GAS}} and tx w/ {{c2::cephalexin}}
