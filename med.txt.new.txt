@@ -42,4 +42,6 @@ Hypertensive emergency + Acute cardiogenic flash pulmonary edema (SCAPE): {{c1::
 
 Cardiogenic shock first-line drugs = {{c1::Dobutamine (inotropic support)}} + {{c2::Norepinephrine (pressor)}}
 
+=======
 
+Acute pulmonary edema + severe hypertension + new diastolic murmur = {{c1::Type A aortic dissection (hint: AR murmur)}}
