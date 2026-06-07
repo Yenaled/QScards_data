@@ -20,17 +20,26 @@ Tension pneumothorax management: Unstable? 1) {{c1::Needle decompression}}, 2) {
 
 =======
 
-Hypertensive emergency + Signs of flash pulmonary edema: Treat with {{c1::IV nitroglycerin}}
+Hypertensive emergency + Signs of flash pulmonary edema: Tx = {{c1::IV nitroglycerin}}
 
 =======
 
-Hypertensive emergency + ischemic stroke or encephalopathy or other: {{c1::Nicardipine}}
+Hypertensive emergency + ischemic stroke or encephalopathy: Tx = {{c1::Nicardipine}}
 
 =======
 
-Hypertensive emergency + preeclampsia/eclampsia: {{c1::Labetalol}} or {{c2::hydralazine}}
+Hypertensive emergency + preeclampsia/eclampsia: Tx = {{c1::Labetalol}} or {{c2::hydralazine}}
 
 =======
 
-Hypertensive emergency + Aortic dissection: {{c1::Esmolol}} then {{c2::nitroprusside}}
+Hypertensive emergency + Aortic dissection: Tx = {{c1::Esmolol}} then {{c2::nitroprusside}}
+
+=======
+
+Hypertensive emergency + Acute cardiogenic flash pulmonary edema (SCAPE): {{c1::NIPPV}} + {{c2::IV nitroglycerin}}
+
+=======
+
+Cardiogenic shock first-line drugs = {{c1::Dobutamine (inotropic support)}} + {{c2::Norepinephrine (pressor)}}
+
 
