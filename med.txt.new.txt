@@ -4,7 +4,33 @@
 
 =======
 
-Sudden severe headache + vomiting = {{c1::subarachnoid hemorrhage}}
+Prolonged QRS Interval (>100 ms) + sinus tachycardia = {{c1::TCA::drug class}} overdose
 
+=======
 
+Sudden severe headache + vomiting = Diagnosis: {{c1::subarachnoid hemorrhage}}. Next steps: 1) {{c2::Non-con head CT}}, 2) If normal, {{c3::LP (xanthochromia)}}
+
+=======
+
+Stable gunshot wound with clear transabdominal trajectory = Next step: {{c1::ex-lap}}
+
+=======
+
+Tension pneumothorax management: Unstable? 1) {{c1::Needle decompression}}, 2) {{c2::Chest tube (tube thoracostomy)}}. Stable? {{c3::Chest tube (tube thoracostomy)}}
+
+=======
+
+Hypertensive emergency + Signs of flash pulmonary edema: Treat with {{c1::IV nitroglycerin}}
+
+=======
+
+Hypertensive emergency + ischemic stroke or encephalopathy or other: {{c1::Nicardipine}}
+
+=======
+
+Hypertensive emergency + preeclampsia/eclampsia: {{c1::Labetalol}} or {{c2::hydralazine}}
+
+=======
+
+Hypertensive emergency + Aortic dissection: {{c1::Esmolol}} then {{c2::nitroprusside}}
 
