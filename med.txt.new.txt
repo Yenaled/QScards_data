@@ -1,0 +1,10 @@
+=======
+
+{{c1::TCA}} cardiotoxicity and {{c2::aspirin}} toxicity are treated with {{c3::sodium bicarb}}
+
+=======
+
+Sudden severe headache + vomiting = {{c1::subarachnoid hemorrhage}}
+
+
+
