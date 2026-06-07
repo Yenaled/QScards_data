@@ -74,4 +74,16 @@ Hydrochlorothiazide increases blood levels of {{c1::Glucose}}, {{c2::Lipids}}, {
 
 Hydrochlorothiazide classically reduces blood levels of {{c1::Potassium}} and {{c2::Magnesium}}
 
+=======
+
+Non-displaced scaphoid fracture + normal initial wrist x-rays → {{c1::thumb spica splint (until union demonstrated with f/u x-rays)::next step?}}
+
+=======
+
+Most common complication of scaphoid fracture and why? {{c1::Avascular necrosis due to retrograde blood supply from radial artery}}
+
+
+
+
+
 
