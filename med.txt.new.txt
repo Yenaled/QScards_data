@@ -57,3 +57,11 @@ Aortic dissection: Most common cause = {{c1::Hypertension}}
 =======
 
 Nonpurulent Cellulitis = commonly caused by {{c1::GAS}} and tx w/ {{c2::cephalexin}}
+
+=======
+
+Gonococcal septic arthritis is diagnosed by synovial fluid analysis + {{c1::NAAT::study}} from {{c2::mucosal/urogenital site}}
+
+=======
+
+{{c1::Migratory Polyarthralgia}} + {{c2::Tenosynovitis}} + {{c3::Dermatitis (painless, nonitchy)}} = {{c4::Disseminated Gonoccal Infection}}
