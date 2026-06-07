@@ -49,3 +49,7 @@ Acute pulmonary edema + severe hypertension + new diastolic murmur = {{c1::Type 
 =======
 
 Aortic dissection: Most common cause = {{c1::Hypertension}}
+
+=======
+
+{{c1::Postprandial abdominal pain}} + {{c2::food fear}} + {{c3::weight loss}} = {{c4::chronic mesenteric ischemia}}
