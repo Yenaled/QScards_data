@@ -82,6 +82,9 @@ Non-displaced scaphoid fracture + normal initial wrist x-rays → {{c1::thumb sp
 
 Most common complication of scaphoid fracture and why? {{c1::Avascular necrosis due to retrograde blood supply from radial artery}}
 
+=======
+
+AFib w/ RVR + hemodynamic instability → {{c1::Synchronized cardioversion::next step?}}
 
 
 
