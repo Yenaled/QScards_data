@@ -126,3 +126,54 @@ Contralateral homonymous hemianopsia {{c1::without::with/without}} macular spari
 
 {{c1::Morphine (if needed)}} + {{c2::Oxygen (only if hypoxemic)}} + {{c3::Nitroglycerin}} + {{c4::Aspirin}} + {{c5::Beta-blocker}} + {{c6::Heparin}} + {{c7::Statin}} + {{c8::Another antiplatelet (P2Y12 inhibitor)}} used for {{c9::STEMI}}, {{c10::NSTEMI}}, {{c11::Unstable angina}}
 
+=======
+
+Cardiac tamponade is diagnosed with {{c1::TTE}}
+
+=======
+
+Water Bottle Sign (enlarged cardiac silhouette) on CXR suggests a massive {{c1::pericardial effusion}}.
+
+=======
+
+Suspected acute aortic dissection → diagnose with {{c1::CT angiography}} if stable; {{c2::TEE}} if unstable
+
+=======
+
+Orthostatic syncope: First-line treatment in ED? {{c1::IV saline (bolus)}}
+
+=======
+
+GI upset + coarse tremor + ataxia + confusion = {{c1::Lithium toxicity}}
+
+=======
+
+{{c1::Port-wine stain}} + {{c2::Leptomeningeal angiomas}} + {{c3::Seizures}} + {{c4::Glaucoma}} = {{c5::Sturge–Weber syndrome}}
+
+=======
+
+COPD patient + oxygen administration + worsening mental status = {{c1::oxygen-induced hypercapnia}}
+
+
+=======
+
+COPD patient + oxygen administration + worsening mental status = {{c1::oxygen-induced hypercapnia}} → {{c2::ABG::dx?}} → {{c3::NIPPV::if dx confirmed?}}
+
+=======
+
+AECOPD → {{c1::Short-acting bronchodilators (SABA, SAMA)::First step?}} → {{c2::Systemic (not inhaled) corticosteroids::Second step?}} → {{c3::Target O2 to 88–92%::Third step?}}
+
+=======
+
+Acute asthma exacerbation → {{c1::Short-acting bronchodilators (SABA, SAMA)::First step?}} → {{c2::Systemic (not inhaled) corticosteroids::Second step?}} → {{c3::Oxygen (≥94%)}} → {{c4::IV magnesium sulfate}}
+
+=======
+
+Does Boerhaave syndrome have hematemesis? {{c1::No (but Mallory-Weiss does)}}
+
+=======
+
+Patient with rebound tenderness: What pain medication to start? {{c1::IV opioids}}
+
+
+
