@@ -122,5 +122,7 @@ Contralateral homonymous hemianopsia {{c1::without::with/without}} macular spari
 
 {{c1::Contralateral Hemiparesis}} + {{c2::Contralateral hemisensory Loss}} + {{c3::Contralateral homonymous hemianopsia (w/o macular sparing}}, + {{c4::aphasia}} (if left dominant) or {{c5::hemineglect}} (if right dominant) = {{c6::MCA stroke}}
 
+=======
 
+{{c1::Morphine (if needed)}} + {{c2::Oxygen (only if hypoxemic)}} + {{c3::Nitroglycerin}} + {{c4::Aspirin}} + {{c5::Beta-blocker}} + {{c6::Heparin}} + {{c7::Statin}} + {{c8::Another antiplatelet (P2Y12 inhibitor)}} used for {{c9::STEMI}}, {{c10::NSTEMI}}, {{c11::Unstable angina}}
 
