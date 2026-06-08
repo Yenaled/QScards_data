@@ -94,5 +94,8 @@ ESRD + mucosal bleeding + normal platelet count/PT/PTT → {{c1::uremic platelet
 
 Uremic platelet dysfunction: Renal failure → ↑ {{c1::GSA}} → ↑ {{c2::NO}} → impaired platelet aggregation
 
+=======
+
+{{c1::succinyl-CoA}} + {{c2::glycine}} are combined by {{c3::ALAS}} to form {{c4::dALA}}
 
 
