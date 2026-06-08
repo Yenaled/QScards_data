@@ -86,7 +86,13 @@ Most common complication of scaphoid fracture and why? {{c1::Avascular necrosis 
 
 AFib w/ RVR + hemodynamic instability → {{c1::Synchronized cardioversion::next step?}}
 
+=======
 
+ESRD + mucosal bleeding + normal platelet count/PT/PTT → {{c1::uremic platelet dysfunction::diagnosis}} → {{c2::give DDAVP::next step?}}
+
+=======
+
+Uremic platelet dysfunction: Renal failure → ↑ {{c1::GSA}} → ↑ {{c2::NO}} → impaired platelet aggregation
 
 
 
