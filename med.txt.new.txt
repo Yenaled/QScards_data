@@ -110,4 +110,17 @@ Uremic platelet dysfunction: {{c1::Burr cells (sea urchin appearing RBCs}::abnor
 
 Acute intermittent porphyria treatment: {{c1::IV hemin}} + {{c2::glucose}}
 
+=======
+
+Contralateral homonymous hemianopsia {{c1::with::with/without}} macular sparing = {{c2::PCA stroke}}
+
+=======
+
+Contralateral homonymous hemianopsia {{c1::without::with/without}} macular sparing = {{c2::MCA stroke}}
+
+=======
+
+{{c1::Contralateral Hemiparesis}} + {{c2::Contralateral hemisensory Loss}} + {{c3::Contralateral homonymous hemianopsia (w/o macular sparing}}, + {{c4::aphasia}} (if left dominant) or {{c5::hemineglect}} (if right dominant) = {{c6::MCA stroke}}
+
+
 
