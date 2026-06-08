@@ -3,6 +3,14 @@
 
 Patient with rebound tenderness: What pain medication to start? {{c1::IV opioids}}
 
+======= 0qruQ02iCPAUl
+0 6/8/2026 16:17 UTC
+0 6/8/2026 16:17 UTC
+0 6/8/2026 16:17 UTC
+0 6/8/2026 16:17 UTC
+
+{{c1::Respiratory distress}} + {{c2::neurological impairment}} + {{c3::petechial rash}} = {{c4::Fat embolism}}
+
 ======= 2T8YmB70lg9H3
 0 6/8/2026 07:18 UTC
 0 6/8/2026 07:18 UTC
@@ -51,6 +59,12 @@ Orthostatic syncope: First-line treatment in ED? {{c1::IV saline (bolus)}}
 0 6/8/2026 07:30 UTC
 
 {{c1::Postprandial abdominal pain}} + {{c2::food fear}} + {{c3::weight loss}} = {{c4::chronic mesenteric ischemia}}
+
+======= EdvMmW1r1k73K
+0 6/8/2026 16:17 UTC
+0 6/8/2026 16:17 UTC
+
+Massive PE treatment: {{c1::tPA}} + {{c2::heparin (UFH)}}
 
 ======= GkHn0H6Uxiv9R
 3 6/9/2026 02:10 UTC
@@ -200,6 +214,11 @@ Hydrochlorothiazide increases blood levels of {{c1::Glucose}}, {{c2::Lipids}}, {
 
 {{c1::Painful abdomen}} + {{c2::Psychiatric symptoms}} + {{c3::Polyneuropathy}}, + {{c4::Port-wine urine}} + {{c5::Precipitated by CYP450 inducing drugs}} = {{c6::Acute intermittent porphyria}}
 
+======= al2q7wi55JCQW
+0 6/8/2026 16:17 UTC
+
+Renal failure: What type of heparin? {{c1::UFH (LMWH/enoxaparin renally cleared)}}
+
 ======= cxoeDmDOdZxFs
 0 6/8/2026 07:18 UTC
 0 6/8/2026 07:18 UTC
@@ -287,6 +306,16 @@ Aortic dissection: Most common cause = {{c1::Hypertension}}
 
 {{c1::Morphine (if needed)}} + {{c2::Oxygen (only if hypoxemic)}} + {{c3::Nitroglycerin}} + {{c4::Aspirin}} + {{c5::Beta-blocker}} + {{c6::Heparin}} + {{c7::Statin}} + {{c8::Another antiplatelet (P2Y12 inhibitor)}} used for {{c9::STEMI}}, {{c10::NSTEMI}}, {{c11::Unstable angina}}
 
+======= sZn2czqAjAEDk
+0 6/8/2026 16:17 UTC
+
+Heparin type with short half life + easily reversible: {{c1::UFH}}
+
+======= uoFjidoJUwFox
+0 6/8/2026 16:17 UTC
+
+Nephrotic syndrome can cause hypercoagulability by {{c1::loss of ATIII}}
+
 ======= xVHQ0vpFP82CN
 2 6/10/2026 07:33 UTC
 
@@ -302,29 +331,3 @@ Hypertensive emergency + Signs of flash pulmonary edema: Tx = {{c1::IV nitroglyc
 0 6/8/2026 07:18 UTC
 
 Suspected acute aortic dissection → diagnose with {{c1::CT angiography}} if stable; {{c2::TEE}} if unstable
-
-=======
-
-Nephrotic syndrome can cause hypercoagulability by {{c1::loss of ATIII}}
-
-
-=======
-
-{{c1::Respiratory distress}} + {{c2::neurological impairment}} + {{c3::petechial rash}} = {{c4::Fat embolism}}
-
-=======
-
-
-Massive PE treatment: {{c1::tPA}} + {{c2::heparin (UFH)}}
-
-
-=======
-
-Renal failure: What type of heparin? {{c1::UFH (LMWH/enoxaparin renally cleared)}}
-
-
-=======
-
-Heparin type with short half life + easily reversible: {{c1::UFH}}
-
-
