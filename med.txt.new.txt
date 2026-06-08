@@ -96,6 +96,14 @@ Uremic platelet dysfunction: Renal failure → ↑ {{c1::GSA}} → ↑ {{c2::NO}
 
 =======
 
+Uremic platelet dysfunction: {{c1::Burr cells (sea urchin appearing RBCs}::abnormal cells}} on blood smear
+
+=======
+
 {{c1::succinyl-CoA}} + {{c2::glycine}} are combined by {{c3::ALAS}} to form {{c4::dALA}}
+
+=======
+
+{{c1::Painful abdomen}} + {{c2::Psychiatric symptoms}} + {{c3::Polyneuropathy}}, + {{c4::Port-wine urine}} + {{c5::Precipitated by CYP450 inducing drugs}} = {{c6::Acute intermittent porphyria}}
 
 
