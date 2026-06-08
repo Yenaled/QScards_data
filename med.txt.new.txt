@@ -175,5 +175,10 @@ Does Boerhaave syndrome have hematemesis? {{c1::No (but Mallory-Weiss does)}}
 
 Patient with rebound tenderness: What pain medication to start? {{c1::IV opioids}}
 
+=======
+
+Acute pancreatitis management? {{c1::IV LR (bolus)}} + {{c2::IV opioids}}
+
+
 
 
