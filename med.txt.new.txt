@@ -106,4 +106,8 @@ Uremic platelet dysfunction: {{c1::Burr cells (sea urchin appearing RBCs}::abnor
 
 {{c1::Painful abdomen}} + {{c2::Psychiatric symptoms}} + {{c3::Polyneuropathy}}, + {{c4::Port-wine urine}} + {{c5::Precipitated by CYP450 inducing drugs}} = {{c6::Acute intermittent porphyria}}
 
+=======
+
+Acute intermittent porphyria treatment: {{c1::IV hemin}} + {{c2::glucose}}
+
 
