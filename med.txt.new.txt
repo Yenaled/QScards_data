@@ -1,0 +1,188 @@
+
+
+=======
+
+First-line drug for passing kidney stone: {{c1::tamsulosin}}
+
+=======
+
+First step in both DKA and HHS: {{c1::IV LR/NS (bolus)}}
+
+=======
+
+Monitor response to tx for DKA: {{c1::anion gap}}
+
+=======
+
+Monitor response to tx for HHS: {{c1::serum osmolality}} + {{c2::mental status}}
+
+=======
+
+Monitor response to tx for hepatic encephalopathy: {{c1::mental status}}
+
+=======
+
+Tx for hepatic encephalopathy: {{c1::rifaximin}} + {{c2::lactulose}}
+
+=======
+
+What structural intervention can directly cause hepatic encephalopathy? {{c1::TIPS}}
+
+=======
+
+First line tx for unruptured ectopic pregnancy? {{c1::Methotrexate}} 
+
+=======
+
+Ectopic pregnancy imaging: {{c1::TVUS}}
+
+=======
+
+First-line tx for meningitis in children & adults (2 drugs): {{c1::vancomycin + ceftriaxone}}
+
+=======
+
+First-line tx for meningitis in immunocompromised & adults >50 (3 drugs): {{c1::vancomycin + ceftriaxone + ampicillin}}
+
+=======
+
+Suspected bacterial meningitis: What to give alongside abx? {{c1::dexamethasone}}
+
+=======
+
+What type of meningitis causes petechiae/purpuric rash? {{c1::meningococcal (neisseria)}}
+
+=======
+
+Neisseria grows on what lab growth medium? {{c1::Thayer-Martin chocolate agar (VPN agar)}}
+
+=======
+
+H. flu grows on what lab growth medium? {{c1::Chocolate agar}}
+
+=======
+
+Bordetella pertussis grows on what lab growth medium? {{c1::Regan-Lowe agar}}
+
+=======
+
+Bordetella pertussis post-exposure prophylaxis for close contacts? {{c1::Yes (macrolides)::yes/no?}}
+
+=======
+
+AVNRT treatment: {{c1::Vagal maneuvers::first line?}} → {{c2::Adenosine::second line?}}
+
+=======
+
+WPW treatment: {{c1::Catheter ablation}}
+
+=======
+
+Partial thickness burn is distinguished from superficial thickness burn by presence of {{c1::blisters}}
+
+=======
+
+
+Smoke inhalation + soot in airway + stridor → {{c1::Intubate::Next step?}}
+
+
+=======
+
+In addition to ACLS, how to manage PEA/asystole? {{c1::5 H's and T's}}
+
+=======
+
+{{c1::Fever}} + {{c2::Pelvic/lower abdominal pain}} + {{c3::Adnexal mass}} = {{c1::Tubo-ovarian Abscess}}
+
+=======
+
+Tubo-ovarian Abscess is a complication of {{c1::PID}} and is diagnosed via {{c2::TVUS}}
+
+=======
+
+{{c1::Sudden unilateral pelvic/lower abdominal pain}} + {{c2::vomiting}} + {{c3::Adnexal mass}} = {{c4::Ovarian torsion}}
+
+=======
+
+Kidney stone is diagnosed w/ {{c1::Non-con CT}}
+
+=======
+
+Secondary postpartum hemorrhage (i.e. bleeding >24h postpartum) is due to: {{c1::Retained products}} and/or {{c2::Endometritis}}
+
+=======
+
+Primary postpartum hemorrhage (i.e. bleeding <24h postpartum) is most commonly due to: {{c1::Uterine atony}}
+
+=======
+
+Uterine atony treatment: {{c1::Uterine massage}} + {{c2::Pitocin}}
+
+=======
+
+Postpartum endometritis treatment (2 abx): {{c1::Clindamycin + Gentamicin}}
+
+=======
+
+Abx prophylaxis for human/dog/cat bite? {{c1::Yes, amox-clav}} 
+
+=======
+
+Abx prophylaxis for cat scratch? {{c1::None}}
+
+=======
+
+Abx prophylaxis for surgery? {{c1::Cefazolin}}
+
+=======
+
+Abx prophylaxis for open fracture? {{c1::Cefazolin}}
+
+=======
+
+Abx for road rash? {{c1::None}}
+
+=======
+
+Abx for needlestick injury? {{c1::None}}
+
+=======
+
+Abx for superficial knife/bullet wounds? {{c1::None}}
+
+=======
+
+Most wounds don't need Abx prophylaxis but most need irrigation and {{c1::tetanus prophylaxis}}.
+
+=======
+
+Unvaccinated patient + dirty wound: {{c1::Tdap + TIG::what prophylaxis?}}
+
+=======
+
+Unvaccinated patient + clean wound: {{c1::Tdap (no TIG)::what prophylaxis?}}
+
+=======
+
+Tetanus prophylaxis: Fully vaccinated patient + dirty wound: {{c1::Tdap (if last dose 5+ years ago)::what prophylaxis?}}
+
+=======
+
+Tetanus prophylaxis: Fully vaccinated patient + clean wound: {{c1::Tdap (if last dose 10+ years ago)::what prophylaxis?}}
+
+=======
+
+{{c1::SIADH}}, {{c2::LEMS}}, and {{c3::Cushing syndrome}} are paraneoplastic effects of {{c4::small cell lung cancer}}
+
+=======
+
+{{c1::Hypercalcemia (PTHrP)}} is paraneoplastic effect of {{c2::squamous cell lung cancer}}
+
+=======
+
+{{c1::Myasthenia gravis}} is paraneoplastic effect of {{c2::Thymoma}} so patients should get {{c3::chest CT}}
+
+=======
+
+Main distinction between obstructive sleep apnea and obesity hypoventilation syndrome: {{c1::OSA has high pCO2 ONLY at night; OSH has it day & night}}
+
