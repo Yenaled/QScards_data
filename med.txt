@@ -1,5 +1,5 @@
 ======= 0GCv91r7j4jvR
-0 6/8/2026 07:18 UTC
+3 6/11/2026 16:19 UTC
 
 Patient with rebound tenderness: What pain medication to start? {{c1::IV opioids}}
 
@@ -12,8 +12,8 @@ Patient with rebound tenderness: What pain medication to start? {{c1::IV opioids
 {{c1::Respiratory distress}} + {{c2::neurological impairment}} + {{c3::petechial rash}} = {{c4::Fat embolism}}
 
 ======= 2T8YmB70lg9H3
-0 6/8/2026 07:18 UTC
-0 6/8/2026 07:18 UTC
+0 6/8/2026 18:59 UTC
+0 6/8/2026 16:30 UTC
 0 6/8/2026 07:44 UTC
 2 6/10/2026 16:15 UTC
 2 6/10/2026 16:16 UTC
@@ -23,19 +23,19 @@ Patient with rebound tenderness: What pain medication to start? {{c1::IV opioids
 ======= 6ZpVhvp1UpZBJ
 2 6/10/2026 07:31 UTC
 0 6/8/2026 07:39 UTC
-0 6/8/2026 07:18 UTC
+3 6/11/2026 18:51 UTC
 
 COPD patient + oxygen administration + worsening mental status = {{c1::oxygen-induced hypercapnia}} → {{c2::ABG::dx?}} → {{c3::NIPPV::if dx confirmed?}}
 
 ======= 6fpzqxP27f9T3
-0 6/8/2026 07:18 UTC
-0 6/8/2026 07:18 UTC
+0 6/8/2026 16:30 UTC
+3 6/11/2026 18:49 UTC
 
 Acute pancreatitis management? {{c1::IV LR (bolus)}} + {{c2::IV opioids}}
 
 ======= 8bCGuaTQCdSpH
-0 6/8/2026 07:18 UTC
-0 6/8/2026 07:18 UTC
+3 6/11/2026 16:20 UTC
+3 6/11/2026 18:50 UTC
 
 Nonpurulent Cellulitis = commonly caused by {{c1::GAS}} and tx w/ {{c2::cephalexin}}
 
@@ -48,13 +48,13 @@ Orthostatic syncope: First-line treatment in ED? {{c1::IV saline (bolus)}}
 2 6/10/2026 07:20 UTC
 2 6/10/2026 07:31 UTC
 0 6/8/2026 07:18 UTC
-0 6/8/2026 07:18 UTC
+3 6/11/2026 16:21 UTC
 
 {{c1::Migratory Polyarthralgia}} + {{c2::Tenosynovitis}} + {{c3::Dermatitis (painless, nonitchy)}} = {{c4::Disseminated Gonoccal Infection}}
 
 ======= BqjNFGkJDJ7qe
 0 6/8/2026 07:40 UTC
-0 6/8/2026 07:18 UTC
+0 6/8/2026 19:00 UTC
 0 6/8/2026 16:25 UTC
 0 6/8/2026 07:30 UTC
 
@@ -77,8 +77,8 @@ Cholecystitis causes referred pain to {{c1::right shoulder}}
 Does Boerhaave syndrome have hematemesis? {{c1::No (but Mallory-Weiss does)}}
 
 ======= L1m28B81DQkSt
-0 6/8/2026 07:18 UTC
-0 6/8/2026 07:18 UTC
+3 6/11/2026 16:22 UTC
+3 6/11/2026 16:22 UTC
 2 6/10/2026 15:37 UTC
 0 6/8/2026 07:41 UTC
 
@@ -90,7 +90,7 @@ Does Boerhaave syndrome have hematemesis? {{c1::No (but Mallory-Weiss does)}}
 Non-displaced scaphoid fracture + normal initial wrist x-rays → {{c1::thumb spica splint (until union demonstrated with f/u x-rays)::next step?}}
 
 ======= MBr9S8JOfpEZh
-0 6/8/2026 07:18 UTC
+3 6/11/2026 16:20 UTC
 2 6/10/2026 15:37 UTC
 0 6/8/2026 07:18 UTC
 
@@ -107,7 +107,7 @@ Cardiac tamponade is diagnosed with {{c1::TTE}}
 Water Bottle Sign (enlarged cardiac silhouette) on CXR suggests a massive {{c1::pericardial effusion}}.
 
 ======= Pho4DTB7k5Ed2
-0 6/8/2026 07:18 UTC
+3 6/11/2026 16:22 UTC
 0 6/8/2026 07:18 UTC
 
 Uremic platelet dysfunction: Renal failure → ↑ {{c1::GSA}} → ↑ {{c2::NO}} → impaired platelet aggregation
@@ -118,7 +118,7 @@ Uremic platelet dysfunction: Renal failure → ↑ {{c1::GSA}} → ↑ {{c2::NO}
 Hypertensive emergency + ischemic stroke or encephalopathy: Tx = {{c1::Nicardipine}}
 
 ======= QUBMWhPL8ySuM
-0 6/8/2026 07:18 UTC
+3 6/11/2026 18:51 UTC
 
 Prolonged QRS Interval (>100 ms) + sinus tachycardia = {{c1::TCA::drug class}} overdose
 
@@ -130,7 +130,7 @@ Acute intermittent porphyria treatment: {{c1::IV hemin}} + {{c2::glucose}}
 
 ======= RiUBMTb5XdNpc
 0 6/8/2026 07:29 UTC
-0 6/8/2026 07:18 UTC
+0 6/8/2026 16:30 UTC
 
 Cardiogenic shock first-line drugs = {{c1::Dobutamine (inotropic support)}} + {{c2::Norepinephrine (pressor)}}
 
@@ -140,8 +140,8 @@ Cardiogenic shock first-line drugs = {{c1::Dobutamine (inotropic support)}} + {{
 GI upset + coarse tremor + ataxia + confusion = {{c1::Lithium toxicity}}
 
 ======= SYglAS1CqadQQ
-0 6/8/2026 07:18 UTC
-0 6/8/2026 07:18 UTC
+3 6/11/2026 16:19 UTC
+0 6/8/2026 22:21 UTC
 2 6/10/2026 15:36 UTC
 
 Sudden severe headache + vomiting = Diagnosis: {{c1::subarachnoid hemorrhage}}. Next steps: 1) {{c2::Non-con head CT}}, 2) If normal, {{c3::LP (xanthochromia)}}
@@ -152,7 +152,7 @@ Sudden severe headache + vomiting = Diagnosis: {{c1::subarachnoid hemorrhage}}. 
 Lack of platelet aggregation with ristocetin, but corrected with normal plasma = {{c1::von Willebrand Disease}}
 
 ======= UFi7Alozinzse
-0 6/8/2026 07:18 UTC
+3 6/11/2026 16:20 UTC
 
 AFib w/ RVR + hemodynamic instability → {{c1::Synchronized cardioversion::next step?}}
 
@@ -169,10 +169,10 @@ Hypertensive emergency + preeclampsia/eclampsia: Tx = {{c1::Labetalol}} or {{c2:
 Hydrochlorothiazide classically reduces blood levels of {{c1::Potassium}} and {{c2::Magnesium}}
 
 ======= YQnrJjXTy7qlo
-0 6/8/2026 07:18 UTC
-0 6/8/2026 07:18 UTC
-0 6/8/2026 07:18 UTC
-0 6/8/2026 07:18 UTC
+3 6/11/2026 18:48 UTC
+0 6/8/2026 22:21 UTC
+0 6/8/2026 16:32 UTC
+0 6/8/2026 18:58 UTC
 
 Acute asthma exacerbation → {{c1::Short-acting bronchodilators (SABA, SAMA)::First step?}} → {{c2::Systemic (not inhaled) corticosteroids::Second step?}} → {{c3::Oxygen (≥94%)}} → {{c4::IV magnesium sulfate}}
 
@@ -205,10 +205,10 @@ Hydrochlorothiazide increases blood levels of {{c1::Glucose}}, {{c2::Lipids}}, {
 {{c1::Maple syrup urine disease::Disease}} causes buildup of {{c2::branched chain amino acids::amino acid class}}, which includes {{c3::leucine, isoleucine, valine}}
 
 ======= a44BNVm09Pwz1
-0 6/8/2026 07:18 UTC
-0 6/8/2026 07:18 UTC
+0 6/8/2026 16:32 UTC
+0 6/8/2026 16:32 UTC
 2 6/10/2026 15:37 UTC
-0 6/8/2026 07:18 UTC
+0 6/8/2026 18:59 UTC
 0 6/8/2026 07:39 UTC
 2 6/10/2026 07:34 UTC
 
@@ -220,30 +220,30 @@ Hydrochlorothiazide increases blood levels of {{c1::Glucose}}, {{c2::Lipids}}, {
 Renal failure: What type of heparin? {{c1::UFH (LMWH/enoxaparin renally cleared)}}
 
 ======= cxoeDmDOdZxFs
+3 6/11/2026 18:51 UTC
 0 6/8/2026 07:18 UTC
-0 6/8/2026 07:18 UTC
-0 6/8/2026 07:18 UTC
+3 6/11/2026 18:49 UTC
 0 6/8/2026 07:44 UTC
 2 6/10/2026 07:30 UTC
-0 6/8/2026 07:18 UTC
+3 6/11/2026 16:18 UTC
 
 {{c1::Contralateral Hemiparesis}} + {{c2::Contralateral hemisensory Loss}} + {{c3::Contralateral homonymous hemianopsia (w/o macular sparing}}, + {{c4::aphasia}} (if left dominant) or {{c5::hemineglect}} (if right dominant) = {{c6::MCA stroke}}
 
 ======= e5QVhyuZOgk8e
-0 6/8/2026 07:18 UTC
-0 6/8/2026 07:18 UTC
+0 6/8/2026 19:00 UTC
+0 6/8/2026 16:29 UTC
 
 Hypertensive emergency + Acute cardiogenic flash pulmonary edema (SCAPE): {{c1::NIPPV}} + {{c2::IV nitroglycerin}}
 
 ======= fO0t0wgrA0QvZ
-0 6/8/2026 07:18 UTC
+3 6/11/2026 18:49 UTC
 
 COPD patient + oxygen administration + worsening mental status = {{c1::oxygen-induced hypercapnia}}
 
 ======= fnYwrhicCrIRm
-0 6/8/2026 07:18 UTC
+3 6/11/2026 16:21 UTC
 0 6/8/2026 07:44 UTC
-0 6/8/2026 07:18 UTC
+3 6/11/2026 18:51 UTC
 
 {{c1::TCA}} cardiotoxicity and {{c2::aspirin}} toxicity are treated with {{c3::sodium bicarb}}
 
@@ -259,14 +259,14 @@ Contralateral homonymous hemianopsia {{c1::with::with/without}} macular sparing 
 Most common complication of scaphoid fracture and why? {{c1::Avascular necrosis due to retrograde blood supply from radial artery}}
 
 ======= jof7zBNzf9gRN
-0 6/8/2026 07:18 UTC
-0 6/8/2026 07:18 UTC
+3 6/11/2026 18:50 UTC
+0 6/8/2026 16:28 UTC
 
 Hypertensive emergency + Aortic dissection: Tx = {{c1::Esmolol}} then {{c2::nitroprusside}}
 
 ======= jqe0JX3bpKTdG
 0 6/8/2026 07:18 UTC
-0 6/8/2026 07:18 UTC
+3 6/11/2026 16:22 UTC
 
 Contralateral homonymous hemianopsia {{c1::without::with/without}} macular sparing = {{c2::MCA stroke}}
 
@@ -276,7 +276,7 @@ Contralateral homonymous hemianopsia {{c1::without::with/without}} macular spari
 Uremic platelet dysfunction: {{c1::Burr cells (sea urchin appearing RBCs}::abnormal cells}} on blood smear
 
 ======= n0fvbhqYAIFUJ
-0 6/8/2026 07:18 UTC
+0 6/8/2026 16:31 UTC
 
 Acute pulmonary edema + severe hypertension + new diastolic murmur = {{c1::Type A aortic dissection (hint: AR murmur)}}
 
@@ -292,14 +292,14 @@ ESRD + mucosal bleeding + normal platelet count/PT/PTT → {{c1::uremic platelet
 Aortic dissection: Most common cause = {{c1::Hypertension}}
 
 ======= qAmKeW7BrKRoe
-0 6/8/2026 07:18 UTC
-0 6/8/2026 07:18 UTC
+3 6/11/2026 16:20 UTC
+3 6/11/2026 18:51 UTC
 2 6/10/2026 07:33 UTC
-0 6/8/2026 07:18 UTC
+3 6/11/2026 18:49 UTC
 0 6/8/2026 07:42 UTC
-0 6/8/2026 07:18 UTC
+0 6/8/2026 16:31 UTC
 0 6/8/2026 07:42 UTC
-0 6/8/2026 07:18 UTC
+0 6/8/2026 16:32 UTC
 2 6/10/2026 07:20 UTC
 2 6/10/2026 16:15 UTC
 0 6/8/2026 07:42 UTC
@@ -327,7 +327,196 @@ Stable gunshot wound with clear transabdominal trajectory = Next step: {{c1::ex-
 Hypertensive emergency + Signs of flash pulmonary edema: Tx = {{c1::IV nitroglycerin}}
 
 ======= yiClAFzVb9iNP
-0 6/8/2026 07:18 UTC
-0 6/8/2026 07:18 UTC
+3 6/11/2026 16:21 UTC
+3 6/11/2026 18:52 UTC
 
 Suspected acute aortic dissection → diagnose with {{c1::CT angiography}} if stable; {{c2::TEE}} if unstable
+
+
+
+=======
+
+First-line drug for passing kidney stone: {{c1::tamsulosin}}
+
+=======
+
+First step in both DKA and HHS: {{c1::IV LR/NS (bolus)}}
+
+=======
+
+Monitor response to tx for DKA: {{c1::anion gap}}
+
+=======
+
+Monitor response to tx for HHS: {{c1::serum osmolality}} + {{c2::mental status}}
+
+=======
+
+Monitor response to tx for hepatic encephalopathy: {{c1::mental status}}
+
+=======
+
+Tx for hepatic encephalopathy: {{c1::rifaximin}} + {{c2::lactulose}}
+
+=======
+
+What structural intervention can directly cause hepatic encephalopathy? {{c1::TIPS}}
+
+=======
+
+First line tx for unruptured ectopic pregnancy? {{c1::Methotrexate}} 
+
+=======
+
+Ectopic pregnancy imaging: {{c1::TVUS}}
+
+=======
+
+First-line tx for meningitis in children & adults (2 drugs): {{c1::vancomycin + ceftriaxone}}
+
+=======
+
+First-line tx for meningitis in immunocompromised & adults >50 (3 drugs): {{c1::vancomycin + ceftriaxone + ampicillin}}
+
+=======
+
+Suspected bacterial meningitis: What to give alongside abx? {{c1::dexamethasone}}
+
+=======
+
+What type of meningitis causes petechiae/purpuric rash? {{c1::meningococcal (neisseria)}}
+
+=======
+
+Neisseria grows on what lab growth medium? {{c1::Thayer-Martin chocolate agar (VPN agar)}}
+
+=======
+
+H. flu grows on what lab growth medium? {{c1::Chocolate agar}}
+
+=======
+
+Bordetella pertussis grows on what lab growth medium? {{c1::Regan-Lowe agar}}
+
+=======
+
+Bordetella pertussis post-exposure prophylaxis for close contacts? {{c1::Yes (macrolides)::yes/no?}}
+
+=======
+
+AVNRT treatment: {{c1::Vagal maneuvers::first line?}} → {{c2::Adenosine::second line?}}
+
+=======
+
+WPW treatment: {{c1::Catheter ablation}}
+
+=======
+
+Partial thickness burn is distinguished from superficial thickness burn by presence of {{c1::blisters}}
+
+=======
+
+
+Smoke inhalation + soot in airway + stridor → {{c1::Intubate::Next step?}}
+
+
+=======
+
+In addition to ACLS, how to manage PEA/asystole? {{c1::5 H's and T's}}
+
+=======
+
+{{c1::Fever}} + {{c2::Pelvic/lower abdominal pain}} + {{c3::Adnexal mass}} = {{c1::Tubo-ovarian Abscess}}
+
+=======
+
+Tubo-ovarian Abscess is a complication of {{c1::PID}} and is diagnosed via {{c2::TVUS}}
+
+=======
+
+{{c1::Sudden unilateral pelvic/lower abdominal pain}} + {{c2::vomiting}} + {{c3::Adnexal mass}} = {{c4::Ovarian torsion}}
+
+=======
+
+Kidney stone is diagnosed w/ {{c1::Non-con CT}}
+
+=======
+
+Secondary postpartum hemorrhage (i.e. bleeding >24h postpartum) is due to: {{c1::Retained products}} and/or {{c2::Endometritis}}
+
+=======
+
+Primary postpartum hemorrhage (i.e. bleeding <24h postpartum) is most commonly due to: {{c1::Uterine atony}}
+
+=======
+
+Uterine atony treatment: {{c1::Uterine massage}} + {{c2::Pitocin}}
+
+=======
+
+Postpartum endometritis treatment (2 abx): {{c1::Clindamycin + Gentamicin}}
+
+=======
+
+Abx prophylaxis for human/dog/cat bite? {{c1::Yes, amox-clav}} 
+
+=======
+
+Abx prophylaxis for cat scratch? {{c1::None}}
+
+=======
+
+Abx prophylaxis for surgery? {{c1::Cefazolin}}
+
+=======
+
+Abx prophylaxis for open fracture? {{c1::Cefazolin}}
+
+=======
+
+Abx for road rash? {{c1::None}}
+
+=======
+
+Abx for needlestick injury? {{c1::None}}
+
+=======
+
+Abx for superficial knife/bullet wounds? {{c1::None}}
+
+=======
+
+Most wounds don't need Abx prophylaxis but most need irrigation and {{c1::tetanus prophylaxis}}.
+
+=======
+
+Unvaccinated patient + dirty wound: {{c1::Tdap + TIG::what prophylaxis?}}
+
+=======
+
+Unvaccinated patient + clean wound: {{c1::Tdap (no TIG)::what prophylaxis?}}
+
+=======
+
+Tetanus prophylaxis: Fully vaccinated patient + dirty wound: {{c1::Tdap (if last dose 5+ years ago)::what prophylaxis?}}
+
+=======
+
+Tetanus prophylaxis: Fully vaccinated patient + clean wound: {{c1::Tdap (if last dose 10+ years ago)::what prophylaxis?}}
+
+=======
+
+{{c1::SIADH}}, {{c2::LEMS}}, and {{c3::Cushing syndrome}} are paraneoplastic effects of {{c4::small cell lung cancer}}
+
+=======
+
+{{c1::Hypercalcemia (PTHrP)}} is paraneoplastic effect of {{c2::squamous cell lung cancer}}
+
+=======
+
+{{c1::Myasthenia gravis}} is paraneoplastic effect of {{c2::Thymoma}} so patients should get {{c3::chest CT}}
+
+=======
+
+Main distinction between obstructive sleep apnea and obesity hypoventilation syndrome: {{c1::OSA has high pCO2 ONLY at night; OSH has it day & night}}
+
