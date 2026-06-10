@@ -3,6 +3,12 @@
 
 Patient with rebound tenderness: What pain medication to start? {{c1::IV opioids}}
 
+======= 0jOCgdkFMI4Fh
+0 6/9/2026 17:57 UTC
+0 6/9/2026 17:57 UTC
+
+Secondary postpartum hemorrhage (i.e. bleeding >24h postpartum) is due to: {{c1::Retained products}} and/or {{c2::Endometritis}}
+
 ======= 0qruQ02iCPAUl
 0 6/8/2026 16:17 UTC
 0 6/8/2026 16:17 UTC
@@ -19,6 +25,11 @@ Patient with rebound tenderness: What pain medication to start? {{c1::IV opioids
 2 6/10/2026 16:16 UTC
 
 {{c1::Port-wine stain}} + {{c2::Leptomeningeal angiomas}} + {{c3::Seizures}} + {{c4::Glaucoma}} = {{c5::Sturge–Weber syndrome}}
+
+======= 3ThM879UEpsqo
+0 6/9/2026 17:57 UTC
+
+First step in both DKA and HHS: {{c1::IV LR/NS (bolus)}}
 
 ======= 6ZpVhvp1UpZBJ
 2 6/10/2026 07:31 UTC
@@ -52,6 +63,31 @@ Orthostatic syncope: First-line treatment in ED? {{c1::IV saline (bolus)}}
 
 {{c1::Migratory Polyarthralgia}} + {{c2::Tenosynovitis}} + {{c3::Dermatitis (painless, nonitchy)}} = {{c4::Disseminated Gonoccal Infection}}
 
+======= 9IjMtvPeyRNmJ
+0 6/9/2026 17:57 UTC
+
+Abx prophylaxis for human/dog/cat bite? {{c1::Yes, amox-clav}} 
+
+======= 9eg5xUhPch53j
+0 6/9/2026 17:57 UTC
+
+Abx for road rash? {{c1::None}}
+
+======= AhsjtNNa4g5qX
+0 6/9/2026 17:57 UTC
+
+Postpartum endometritis treatment (2 abx): {{c1::Clindamycin + Gentamicin}}
+
+======= BExV7d8tWASq9
+0 6/9/2026 17:57 UTC
+
+Monitor response to tx for DKA: {{c1::anion gap}}
+
+======= BYzV5vahyt2VU
+0 6/9/2026 17:57 UTC
+
+Primary postpartum hemorrhage (i.e. bleeding <24h postpartum) is most commonly due to: {{c1::Uterine atony}}
+
 ======= BqjNFGkJDJ7qe
 0 6/8/2026 07:40 UTC
 0 6/8/2026 19:00 UTC
@@ -59,6 +95,12 @@ Orthostatic syncope: First-line treatment in ED? {{c1::IV saline (bolus)}}
 0 6/8/2026 07:30 UTC
 
 {{c1::Postprandial abdominal pain}} + {{c2::food fear}} + {{c3::weight loss}} = {{c4::chronic mesenteric ischemia}}
+
+======= CUVYVRYxnh7aG
+0 6/9/2026 17:57 UTC
+0 6/9/2026 17:57 UTC
+
+Monitor response to tx for HHS: {{c1::serum osmolality}} + {{c2::mental status}}
 
 ======= EdvMmW1r1k73K
 0 6/8/2026 16:17 UTC
@@ -70,6 +112,27 @@ Massive PE treatment: {{c1::tPA}} + {{c2::heparin (UFH)}}
 3 6/9/2026 02:10 UTC
 
 Cholecystitis causes referred pain to {{c1::right shoulder}}
+
+======= HPWZXRZDNX2ZU
+0 6/9/2026 17:57 UTC
+0 6/9/2026 17:57 UTC
+
+Tx for hepatic encephalopathy: {{c1::rifaximin}} + {{c2::lactulose}}
+
+======= Hi2Drln9z7RN7
+0 6/9/2026 17:57 UTC
+
+WPW treatment: {{c1::Catheter ablation}}
+
+======= JDWnYg9BICrjA
+0 6/9/2026 17:57 UTC
+
+What structural intervention can directly cause hepatic encephalopathy? {{c1::TIPS}}
+
+======= Kugz7ODGAoECG
+0 6/9/2026 17:57 UTC
+
+Ectopic pregnancy imaging: {{c1::TVUS}}
 
 ======= KvsoxO4phJzS5
 2 6/10/2026 07:34 UTC
@@ -89,6 +152,11 @@ Does Boerhaave syndrome have hematemesis? {{c1::No (but Mallory-Weiss does)}}
 
 Non-displaced scaphoid fracture + normal initial wrist x-rays → {{c1::thumb spica splint (until union demonstrated with f/u x-rays)::next step?}}
 
+======= Lt4CfxQD6yRje
+0 6/9/2026 17:57 UTC
+
+Most wounds don't need Abx prophylaxis but most need irrigation and {{c1::tetanus prophylaxis}}.
+
 ======= MBr9S8JOfpEZh
 3 6/11/2026 16:20 UTC
 2 6/10/2026 15:37 UTC
@@ -101,6 +169,16 @@ Tension pneumothorax management: Unstable? 1) {{c1::Needle decompression}}, 2) {
 
 Cardiac tamponade is diagnosed with {{c1::TTE}}
 
+======= Nym9jh8rrnBzF
+0 6/9/2026 17:57 UTC
+
+Unvaccinated patient + dirty wound: {{c1::Tdap + TIG::what prophylaxis?}}
+
+======= OSgU3ZtluwOx6
+0 6/9/2026 17:57 UTC
+
+Abx for superficial knife/bullet wounds? {{c1::None}}
+
 ======= OyaLIJEWRk7zC
 2 6/10/2026 07:29 UTC
 
@@ -111,6 +189,12 @@ Water Bottle Sign (enlarged cardiac silhouette) on CXR suggests a massive {{c1::
 0 6/8/2026 07:18 UTC
 
 Uremic platelet dysfunction: Renal failure → ↑ {{c1::GSA}} → ↑ {{c2::NO}} → impaired platelet aggregation
+
+======= Q0J2RsHvkqBzb
+0 6/9/2026 17:57 UTC
+0 6/9/2026 17:57 UTC
+
+Uterine atony treatment: {{c1::Uterine massage}} + {{c2::Pitocin}}
 
 ======= Q49oTs1mu5rn8
 0 6/8/2026 15:46 UTC
@@ -128,11 +212,33 @@ Prolonged QRS Interval (>100 ms) + sinus tachycardia = {{c1::TCA::drug class}} o
 
 Acute intermittent porphyria treatment: {{c1::IV hemin}} + {{c2::glucose}}
 
+======= RCXkJhwRe7ffC
+0 6/9/2026 17:57 UTC
+
+Suspected bacterial meningitis: What to give alongside abx? {{c1::dexamethasone}}
+
+======= RXCA3F5M8vk7S
+0 6/9/2026 17:57 UTC
+0 6/9/2026 17:57 UTC
+0 6/9/2026 17:57 UTC
+
+{{c1::Myasthenia gravis}} is paraneoplastic effect of {{c2::Thymoma}} so patients should get {{c3::chest CT}}
+
+======= RbJhhZhiMOINj
+0 6/9/2026 17:57 UTC
+
+Kidney stone is diagnosed w/ {{c1::Non-con CT}}
+
 ======= RiUBMTb5XdNpc
 0 6/8/2026 07:29 UTC
 0 6/8/2026 16:30 UTC
 
 Cardiogenic shock first-line drugs = {{c1::Dobutamine (inotropic support)}} + {{c2::Norepinephrine (pressor)}}
+
+======= Rp9XR5dRVUWfb
+0 6/9/2026 17:57 UTC
+
+Neisseria grows on what lab growth medium? {{c1::Thayer-Martin chocolate agar (VPN agar)}}
 
 ======= SGNB0a2nU5Mp2
 0 6/8/2026 15:46 UTC
@@ -151,16 +257,48 @@ Sudden severe headache + vomiting = Diagnosis: {{c1::subarachnoid hemorrhage}}. 
 
 Lack of platelet aggregation with ristocetin, but corrected with normal plasma = {{c1::von Willebrand Disease}}
 
+======= U52FuAPrMTCGW
+0 6/9/2026 17:57 UTC
+
+Tetanus prophylaxis: Fully vaccinated patient + dirty wound: {{c1::Tdap (if last dose 5+ years ago)::what prophylaxis?}}
+
 ======= UFi7Alozinzse
 3 6/11/2026 16:20 UTC
 
 AFib w/ RVR + hemodynamic instability → {{c1::Synchronized cardioversion::next step?}}
+
+======= VhRBqQb3XAx1r
+0 6/9/2026 17:57 UTC
+
+First line tx for unruptured ectopic pregnancy? {{c1::Methotrexate}} 
+
+======= VwqmMhWvNOUYh
+0 6/9/2026 17:57 UTC
+0 6/9/2026 17:57 UTC
+
+{{c1::Hypercalcemia (PTHrP)}} is paraneoplastic effect of {{c2::squamous cell lung cancer}}
 
 ======= VzY0I9MzCNWTB
 0 6/8/2026 15:50 UTC
 2 6/10/2026 07:31 UTC
 
 Hypertensive emergency + preeclampsia/eclampsia: Tx = {{c1::Labetalol}} or {{c2::hydralazine}}
+
+======= WeKQ0kYutEW5s
+0 6/9/2026 17:57 UTC
+0 6/9/2026 17:57 UTC
+
+AVNRT treatment: {{c1::Vagal maneuvers::first line?}} → {{c2::Adenosine::second line?}}
+
+======= XezSbgHmcgxON
+0 6/9/2026 17:57 UTC
+
+Abx prophylaxis for cat scratch? {{c1::None}}
+
+======= XvU4VOiUUbrw8
+0 6/9/2026 17:57 UTC
+
+First-line tx for meningitis in children & adults (2 drugs): {{c1::vancomycin + ceftriaxone}}
 
 ======= Y4f9sbidZ0pJP
 2 6/10/2026 07:34 UTC
@@ -229,6 +367,21 @@ Renal failure: What type of heparin? {{c1::UFH (LMWH/enoxaparin renally cleared)
 
 {{c1::Contralateral Hemiparesis}} + {{c2::Contralateral hemisensory Loss}} + {{c3::Contralateral homonymous hemianopsia (w/o macular sparing}}, + {{c4::aphasia}} (if left dominant) or {{c5::hemineglect}} (if right dominant) = {{c6::MCA stroke}}
 
+======= dAitAwJ5FhPYH
+0 6/9/2026 17:57 UTC
+
+H. flu grows on what lab growth medium? {{c1::Chocolate agar}}
+
+======= dVaCBJRtapoZz
+0 6/9/2026 17:57 UTC
+
+Smoke inhalation + soot in airway + stridor → {{c1::Intubate::Next step?}}
+
+======= dlfSvZVP4XkXv
+0 6/9/2026 17:57 UTC
+
+Unvaccinated patient + clean wound: {{c1::Tdap (no TIG)::what prophylaxis?}}
+
 ======= e5QVhyuZOgk8e
 0 6/8/2026 19:00 UTC
 0 6/8/2026 16:29 UTC
@@ -247,16 +400,39 @@ COPD patient + oxygen administration + worsening mental status = {{c1::oxygen-in
 
 {{c1::TCA}} cardiotoxicity and {{c2::aspirin}} toxicity are treated with {{c3::sodium bicarb}}
 
+======= fnnypLOmly5Ga
+0 6/9/2026 17:57 UTC
+0 6/9/2026 17:57 UTC
+0 6/9/2026 17:57 UTC
+0 6/9/2026 17:57 UTC
+
+{{c1::Sudden unilateral pelvic/lower abdominal pain}} + {{c2::vomiting}} + {{c3::Adnexal mass}} = {{c4::Ovarian torsion}}
+
 ======= gtBgAKW0PiooJ
 2 6/10/2026 15:37 UTC
 2 6/10/2026 07:31 UTC
 
 Contralateral homonymous hemianopsia {{c1::with::with/without}} macular sparing = {{c2::PCA stroke}}
 
+======= gx08P9tt5JNB0
+0 6/9/2026 17:57 UTC
+
+Tetanus prophylaxis: Fully vaccinated patient + clean wound: {{c1::Tdap (if last dose 10+ years ago)::what prophylaxis?}}
+
+======= hHWZpPTPnQE70
+0 6/9/2026 17:57 UTC
+
+Bordetella pertussis post-exposure prophylaxis for close contacts? {{c1::Yes (macrolides)::yes/no?}}
+
 ======= hdx6RW1LLxIOV
 0 6/8/2026 07:18 UTC
 
 Most common complication of scaphoid fracture and why? {{c1::Avascular necrosis due to retrograde blood supply from radial artery}}
+
+======= hglr2Y6AOJRgs
+0 6/9/2026 17:57 UTC
+
+First-line drug for passing kidney stone: {{c1::tamsulosin}}
 
 ======= jof7zBNzf9gRN
 3 6/11/2026 18:50 UTC
@@ -269,6 +445,16 @@ Hypertensive emergency + Aortic dissection: Tx = {{c1::Esmolol}} then {{c2::nitr
 3 6/11/2026 16:22 UTC
 
 Contralateral homonymous hemianopsia {{c1::without::with/without}} macular sparing = {{c2::MCA stroke}}
+
+======= l9D0iVEXGAAdn
+0 6/9/2026 17:57 UTC
+
+First-line tx for meningitis in immunocompromised & adults >50 (3 drugs): {{c1::vancomycin + ceftriaxone + ampicillin}}
+
+======= mWNhPHvwXorOn
+0 6/9/2026 17:57 UTC
+
+Abx prophylaxis for open fracture? {{c1::Cefazolin}}
 
 ======= mdEXxbHTYoP3s
 2 6/10/2026 07:33 UTC
@@ -285,6 +471,24 @@ Acute pulmonary edema + severe hypertension + new diastolic murmur = {{c1::Type 
 0 6/8/2026 07:18 UTC
 
 ESRD + mucosal bleeding + normal platelet count/PT/PTT → {{c1::uremic platelet dysfunction::diagnosis}} → {{c2::give DDAVP::next step?}}
+
+======= onoqLmvi7hJtN
+0 6/9/2026 17:57 UTC
+
+In addition to ACLS, how to manage PEA/asystole? {{c1::5 H's and T's}}
+
+======= opAYmZjhJSOr9
+0 6/9/2026 17:57 UTC
+
+Abx prophylaxis for surgery? {{c1::Cefazolin}}
+
+======= pUFWEKEl7WQqv
+0 6/9/2026 17:57 UTC
+0 6/9/2026 17:57 UTC
+0 6/9/2026 17:57 UTC
+0 6/9/2026 17:57 UTC
+
+{{c1::SIADH}}, {{c2::LEMS}}, and {{c3::Cushing syndrome}} are paraneoplastic effects of {{c4::small cell lung cancer}}
 
 ======= pXfRQMZa959SI
 2 6/10/2026 07:33 UTC
@@ -306,15 +510,51 @@ Aortic dissection: Most common cause = {{c1::Hypertension}}
 
 {{c1::Morphine (if needed)}} + {{c2::Oxygen (only if hypoxemic)}} + {{c3::Nitroglycerin}} + {{c4::Aspirin}} + {{c5::Beta-blocker}} + {{c6::Heparin}} + {{c7::Statin}} + {{c8::Another antiplatelet (P2Y12 inhibitor)}} used for {{c9::STEMI}}, {{c10::NSTEMI}}, {{c11::Unstable angina}}
 
+======= rLWfCCsEGG0P1
+0 6/9/2026 17:57 UTC
+
+Partial thickness burn is distinguished from superficial thickness burn by presence of {{c1::blisters}}
+
+======= rfMzBitVjSvP5
+0 6/9/2026 17:57 UTC
+
+Bordetella pertussis grows on what lab growth medium? {{c1::Regan-Lowe agar}}
+
+======= sQP0fQxOrRSl1
+0 6/9/2026 17:57 UTC
+0 6/9/2026 17:57 UTC
+
+Tubo-ovarian Abscess is a complication of {{c1::PID}} and is diagnosed via {{c2::TVUS}}
+
 ======= sZn2czqAjAEDk
 0 6/8/2026 16:17 UTC
 
 Heparin type with short half life + easily reversible: {{c1::UFH}}
 
+======= tH0iChbmbPCjj
+0 6/9/2026 17:57 UTC
+
+Monitor response to tx for hepatic encephalopathy: {{c1::mental status}}
+
+======= tnz2ITPj2UNeG
+0 6/9/2026 17:57 UTC
+
+Abx for needlestick injury? {{c1::None}}
+
 ======= uoFjidoJUwFox
 0 6/8/2026 16:17 UTC
 
 Nephrotic syndrome can cause hypercoagulability by {{c1::loss of ATIII}}
+
+======= v0z1wUFllgaiw
+0 6/9/2026 17:57 UTC
+
+What type of meningitis causes petechiae/purpuric rash? {{c1::meningococcal (neisseria)}}
+
+======= vLarpBu844012
+0 6/9/2026 17:57 UTC
+
+Main distinction between obstructive sleep apnea and obesity hypoventilation syndrome: {{c1::OSA has high pCO2 ONLY at night; OSH has it day & night}}
 
 ======= xVHQ0vpFP82CN
 2 6/10/2026 07:33 UTC
@@ -332,191 +572,45 @@ Hypertensive emergency + Signs of flash pulmonary edema: Tx = {{c1::IV nitroglyc
 
 Suspected acute aortic dissection → diagnose with {{c1::CT angiography}} if stable; {{c2::TEE}} if unstable
 
-
-
-=======
-
-First-line drug for passing kidney stone: {{c1::tamsulosin}}
-
-=======
-
-First step in both DKA and HHS: {{c1::IV LR/NS (bolus)}}
-
-=======
-
-Monitor response to tx for DKA: {{c1::anion gap}}
-
-=======
-
-Monitor response to tx for HHS: {{c1::serum osmolality}} + {{c2::mental status}}
-
-=======
-
-Monitor response to tx for hepatic encephalopathy: {{c1::mental status}}
-
-=======
-
-Tx for hepatic encephalopathy: {{c1::rifaximin}} + {{c2::lactulose}}
-
-=======
-
-What structural intervention can directly cause hepatic encephalopathy? {{c1::TIPS}}
-
-=======
-
-First line tx for unruptured ectopic pregnancy? {{c1::Methotrexate}} 
-
-=======
-
-Ectopic pregnancy imaging: {{c1::TVUS}}
-
-=======
-
-First-line tx for meningitis in children & adults (2 drugs): {{c1::vancomycin + ceftriaxone}}
-
-=======
-
-First-line tx for meningitis in immunocompromised & adults >50 (3 drugs): {{c1::vancomycin + ceftriaxone + ampicillin}}
-
-=======
-
-Suspected bacterial meningitis: What to give alongside abx? {{c1::dexamethasone}}
-
-=======
-
-What type of meningitis causes petechiae/purpuric rash? {{c1::meningococcal (neisseria)}}
-
-=======
-
-Neisseria grows on what lab growth medium? {{c1::Thayer-Martin chocolate agar (VPN agar)}}
-
-=======
-
-H. flu grows on what lab growth medium? {{c1::Chocolate agar}}
-
-=======
-
-Bordetella pertussis grows on what lab growth medium? {{c1::Regan-Lowe agar}}
-
-=======
-
-Bordetella pertussis post-exposure prophylaxis for close contacts? {{c1::Yes (macrolides)::yes/no?}}
-
-=======
-
-AVNRT treatment: {{c1::Vagal maneuvers::first line?}} → {{c2::Adenosine::second line?}}
-
-=======
-
-WPW treatment: {{c1::Catheter ablation}}
-
-=======
-
-Partial thickness burn is distinguished from superficial thickness burn by presence of {{c1::blisters}}
-
-=======
-
-
-Smoke inhalation + soot in airway + stridor → {{c1::Intubate::Next step?}}
-
-
-=======
-
-In addition to ACLS, how to manage PEA/asystole? {{c1::5 H's and T's}}
-
-=======
+======= zywJXqI80hsn5
+0 6/9/2026 17:57 UTC
+0 6/9/2026 17:57 UTC
+0 6/9/2026 17:57 UTC
 
 {{c1::Fever}} + {{c2::Pelvic/lower abdominal pain}} + {{c3::Adnexal mass}} = {{c1::Tubo-ovarian Abscess}}
 
 =======
 
-Tubo-ovarian Abscess is a complication of {{c1::PID}} and is diagnosed via {{c2::TVUS}}
+Shortened, {{c1::externally}}-rotated leg due to {{c2::fall from elderly::most common injury cause?}} = {{c3::Hip fracture (e.g. femoral neck fracture)}}
 
 =======
 
-{{c1::Sudden unilateral pelvic/lower abdominal pain}} + {{c2::vomiting}} + {{c3::Adnexal mass}} = {{c4::Ovarian torsion}}
+Shortened, internally rotated, adducted leg after {{c1::dashboard injury::most common injury cause?}} = {{c2::Posterior hip dislocation}}
 
 =======
 
-Kidney stone is diagnosed w/ {{c1::Non-con CT}}
+Abducted, externally rotated leg = {{c1::Anterior hip dislocation}} due to forced abduction from high-energy trauma.
 
 =======
 
-Secondary postpartum hemorrhage (i.e. bleeding >24h postpartum) is due to: {{c1::Retained products}} and/or {{c2::Endometritis}}
+{{c1::Dashboard injury::Injury mechanism?}} most commonly causes {{c2::Posterior hip dislocation}} and {{c3::PCL tear}}
 
 =======
 
-Primary postpartum hemorrhage (i.e. bleeding <24h postpartum) is most commonly due to: {{c1::Uterine atony}}
+Posterior hip dislocation complications: {{c1::femoral head avascular necrosis (emergency)}} & {{c2::sciatic nerve injury}}
 
 =======
 
-Uterine atony treatment: {{c1::Uterine massage}} + {{c2::Pitocin}}
+Femoral neck fracture is an emergency because {{c1::avascular necrosis}}
 
 =======
 
-Postpartum endometritis treatment (2 abx): {{c1::Clindamycin + Gentamicin}}
+Polyuria/polydipsia + Weight loss + Dehydration + Tachypnea = {{c1::DKA}}
 
 =======
 
-Abx prophylaxis for human/dog/cat bite? {{c1::Yes, amox-clav}} 
+When is PTU preferred over methimazole? {{c1::first trimester pregnancy}} & {{c2::thyroid storm}}
 
 =======
 
-Abx prophylaxis for cat scratch? {{c1::None}}
-
-=======
-
-Abx prophylaxis for surgery? {{c1::Cefazolin}}
-
-=======
-
-Abx prophylaxis for open fracture? {{c1::Cefazolin}}
-
-=======
-
-Abx for road rash? {{c1::None}}
-
-=======
-
-Abx for needlestick injury? {{c1::None}}
-
-=======
-
-Abx for superficial knife/bullet wounds? {{c1::None}}
-
-=======
-
-Most wounds don't need Abx prophylaxis but most need irrigation and {{c1::tetanus prophylaxis}}.
-
-=======
-
-Unvaccinated patient + dirty wound: {{c1::Tdap + TIG::what prophylaxis?}}
-
-=======
-
-Unvaccinated patient + clean wound: {{c1::Tdap (no TIG)::what prophylaxis?}}
-
-=======
-
-Tetanus prophylaxis: Fully vaccinated patient + dirty wound: {{c1::Tdap (if last dose 5+ years ago)::what prophylaxis?}}
-
-=======
-
-Tetanus prophylaxis: Fully vaccinated patient + clean wound: {{c1::Tdap (if last dose 10+ years ago)::what prophylaxis?}}
-
-=======
-
-{{c1::SIADH}}, {{c2::LEMS}}, and {{c3::Cushing syndrome}} are paraneoplastic effects of {{c4::small cell lung cancer}}
-
-=======
-
-{{c1::Hypercalcemia (PTHrP)}} is paraneoplastic effect of {{c2::squamous cell lung cancer}}
-
-=======
-
-{{c1::Myasthenia gravis}} is paraneoplastic effect of {{c2::Thymoma}} so patients should get {{c3::chest CT}}
-
-=======
-
-Main distinction between obstructive sleep apnea and obesity hypoventilation syndrome: {{c1::OSA has high pCO2 ONLY at night; OSH has it day & night}}
-
+Severe hypoglycemia w/o IV access: {{c1::glucagon (IM/SQ/intranasal)}}; w/ IV access: {{c2::IV hypertonic dextrose}}
