@@ -26,6 +26,12 @@ Secondary postpartum hemorrhage (i.e. bleeding >24h postpartum) is due to: {{c1:
 
 {{c1::Port-wine stain}} + {{c2::Leptomeningeal angiomas}} + {{c3::Seizures}} + {{c4::Glaucoma}} = {{c5::Sturge–Weber syndrome}}
 
+======= 3PWsWRb7zS8qR
+0 6/10/2026 15:23 UTC
+0 6/10/2026 15:23 UTC
+
+Shortened, internally rotated, adducted leg after {{c1::dashboard injury::most common injury cause?}} = {{c2::Posterior hip dislocation}}
+
 ======= 3ThM879UEpsqo
 0 6/9/2026 17:57 UTC
 
@@ -102,6 +108,23 @@ Primary postpartum hemorrhage (i.e. bleeding <24h postpartum) is most commonly d
 
 Monitor response to tx for HHS: {{c1::serum osmolality}} + {{c2::mental status}}
 
+======= CnGqZiQOpLFH3
+0 6/10/2026 15:23 UTC
+0 6/10/2026 15:23 UTC
+0 6/10/2026 15:23 UTC
+
+{{c1::Dashboard injury::Injury mechanism?}} most commonly causes {{c2::Posterior hip dislocation}} and {{c3::PCL tear}}
+
+======= D9rXGhv9GYjj1
+0 6/10/2026 15:23 UTC
+
+Femoral neck fracture is an emergency because {{c1::avascular necrosis}}
+
+======= Do1uAC6Mv5ODU
+0 6/10/2026 15:23 UTC
+
+Polyuria/polydipsia + Weight loss + Dehydration + Tachypnea = {{c1::DKA}}
+
 ======= EdvMmW1r1k73K
 0 6/8/2026 16:17 UTC
 0 6/8/2026 16:17 UTC
@@ -160,7 +183,7 @@ Most wounds don't need Abx prophylaxis but most need irrigation and {{c1::tetanu
 ======= MBr9S8JOfpEZh
 3 6/11/2026 16:20 UTC
 2 6/10/2026 15:37 UTC
-0 6/8/2026 07:18 UTC
+3 6/14/2026 08:38 UTC
 
 Tension pneumothorax management: Unstable? 1) {{c1::Needle decompression}}, 2) {{c2::Chest tube (tube thoracostomy)}}. Stable? {{c3::Chest tube (tube thoracostomy)}}
 
@@ -186,7 +209,7 @@ Water Bottle Sign (enlarged cardiac silhouette) on CXR suggests a massive {{c1::
 
 ======= Pho4DTB7k5Ed2
 3 6/11/2026 16:22 UTC
-0 6/8/2026 07:18 UTC
+3 6/14/2026 08:38 UTC
 
 Uremic platelet dysfunction: Renal failure → ↑ {{c1::GSA}} → ↑ {{c2::NO}} → impaired platelet aggregation
 
@@ -314,6 +337,11 @@ Hydrochlorothiazide classically reduces blood levels of {{c1::Potassium}} and {{
 
 Acute asthma exacerbation → {{c1::Short-acting bronchodilators (SABA, SAMA)::First step?}} → {{c2::Systemic (not inhaled) corticosteroids::Second step?}} → {{c3::Oxygen (≥94%)}} → {{c4::IV magnesium sulfate}}
 
+======= YeFhOcYmrGc3Z
+0 6/10/2026 15:23 UTC
+
+Abducted, externally rotated leg = {{c1::Anterior hip dislocation}} due to forced abduction from high-energy trauma.
+
 ======= ZNVX0I4YZATTT
 2 6/10/2026 16:16 UTC
 2 6/10/2026 07:29 UTC
@@ -342,6 +370,12 @@ Hydrochlorothiazide increases blood levels of {{c1::Glucose}}, {{c2::Lipids}}, {
 
 {{c1::Maple syrup urine disease::Disease}} causes buildup of {{c2::branched chain amino acids::amino acid class}}, which includes {{c3::leucine, isoleucine, valine}}
 
+======= a2MDBGWZwQQvb
+0 6/10/2026 15:23 UTC
+0 6/10/2026 15:23 UTC
+
+Posterior hip dislocation complications: {{c1::femoral head avascular necrosis (emergency)}} & {{c2::sciatic nerve injury}}
+
 ======= a44BNVm09Pwz1
 0 6/8/2026 16:32 UTC
 0 6/8/2026 16:32 UTC
@@ -356,6 +390,12 @@ Hydrochlorothiazide increases blood levels of {{c1::Glucose}}, {{c2::Lipids}}, {
 0 6/8/2026 16:17 UTC
 
 Renal failure: What type of heparin? {{c1::UFH (LMWH/enoxaparin renally cleared)}}
+
+======= bxh0fKLlsQKjE
+0 6/10/2026 15:23 UTC
+0 6/10/2026 15:23 UTC
+
+When is PTU preferred over methimazole? {{c1::first trimester pregnancy}} & {{c2::thyroid storm}}
 
 ======= cxoeDmDOdZxFs
 3 6/11/2026 18:51 UTC
@@ -441,7 +481,7 @@ First-line drug for passing kidney stone: {{c1::tamsulosin}}
 Hypertensive emergency + Aortic dissection: Tx = {{c1::Esmolol}} then {{c2::nitroprusside}}
 
 ======= jqe0JX3bpKTdG
-0 6/8/2026 07:18 UTC
+3 6/14/2026 08:38 UTC
 3 6/11/2026 16:22 UTC
 
 Contralateral homonymous hemianopsia {{c1::without::with/without}} macular sparing = {{c2::MCA stroke}}
@@ -510,6 +550,13 @@ Aortic dissection: Most common cause = {{c1::Hypertension}}
 
 {{c1::Morphine (if needed)}} + {{c2::Oxygen (only if hypoxemic)}} + {{c3::Nitroglycerin}} + {{c4::Aspirin}} + {{c5::Beta-blocker}} + {{c6::Heparin}} + {{c7::Statin}} + {{c8::Another antiplatelet (P2Y12 inhibitor)}} used for {{c9::STEMI}}, {{c10::NSTEMI}}, {{c11::Unstable angina}}
 
+======= qnAcGdrSWdlJj
+0 6/10/2026 15:23 UTC
+0 6/10/2026 15:23 UTC
+0 6/10/2026 15:23 UTC
+
+Shortened, {{c1::externally}}-rotated leg due to {{c2::fall from elderly::most common injury cause?}} = {{c3::Hip fracture (e.g. femoral neck fracture)}}
+
 ======= rLWfCCsEGG0P1
 0 6/9/2026 17:57 UTC
 
@@ -556,6 +603,12 @@ What type of meningitis causes petechiae/purpuric rash? {{c1::meningococcal (nei
 
 Main distinction between obstructive sleep apnea and obesity hypoventilation syndrome: {{c1::OSA has high pCO2 ONLY at night; OSH has it day & night}}
 
+======= wTJABjN1z8GbM
+0 6/10/2026 15:23 UTC
+0 6/10/2026 15:23 UTC
+
+Severe hypoglycemia w/o IV access: {{c1::glucagon (IM/SQ/intranasal)}}; w/ IV access: {{c2::IV hypertonic dextrose}}
+
 ======= xVHQ0vpFP82CN
 2 6/10/2026 07:33 UTC
 
@@ -581,36 +634,152 @@ Suspected acute aortic dissection → diagnose with {{c1::CT angiography}} if st
 
 =======
 
-Shortened, {{c1::externally}}-rotated leg due to {{c2::fall from elderly::most common injury cause?}} = {{c3::Hip fracture (e.g. femoral neck fracture)}}
+Highest amount of myocardial perfusion occurs immediately after {{c1::mitral valve::which valve?}} {{c2::opens::opens/closes}}
 
 =======
 
-Shortened, internally rotated, adducted leg after {{c1::dashboard injury::most common injury cause?}} = {{c2::Posterior hip dislocation}}
+Myocardial perfusion is higher during {{c1::diastole::systole/diastole}}
 
 =======
 
-Abducted, externally rotated leg = {{c1::Anterior hip dislocation}} due to forced abduction from high-energy trauma.
+The dicrotic notch marks the beginning of {{c1::diastole}}
 
 =======
 
-{{c1::Dashboard injury::Injury mechanism?}} most commonly causes {{c2::Posterior hip dislocation}} and {{c3::PCL tear}}
+The dicrotic notch occurs when the {{c1::aortic valve::which valve?}} {{c2::closes::opens/closes}}
 
 =======
 
-Posterior hip dislocation complications: {{c1::femoral head avascular necrosis (emergency)}} & {{c2::sciatic nerve injury}}
+Most noticeable sign of aspirin toxicity: {{c1::tinnitus}}
 
 =======
 
-Femoral neck fracture is an emergency because {{c1::avascular necrosis}}
+Aspirin toxicity acid-base balance: {{c1::Mixed (respiratory alkalosis followed by AGMA)}}
 
 =======
 
-Polyuria/polydipsia + Weight loss + Dehydration + Tachypnea = {{c1::DKA}}
+Lyme disease w/o CNS involvement: {{c1::doxycycline::abx?}}. With CNS involvement (e.g. meningitis): {{c2::IV ceftriaxone::abx?}}.
 
 =======
 
-When is PTU preferred over methimazole? {{c1::first trimester pregnancy}} & {{c2::thyroid storm}}
+How is genital herpes managed? {{c1::Outpatient PO acyclovir::inpatient/outpatient? what tx?}}
 
 =======
 
-Severe hypoglycemia w/o IV access: {{c1::glucagon (IM/SQ/intranasal)}}; w/ IV access: {{c2::IV hypertonic dextrose}}
+When is asymptomatic bacteriuria treated? {{c1::Pregnancy}}
+
+=======
+
+Typical patient with IIH? {{c1::Obese woman}}
+
+=======
+
+IIH tx? {{c1::Acetazolamide}}
+
+=======
+
+Headache + papilledema + visual changes + tinnitus = {{c1::IIH}}
+
+=======
+
+{{c1::Hypertension}} + {{c2::Bradycardia}} + {{c3::Irregular respirations}} = Physiological signs of {{c4::ICP (Cushing triad)}}
+
+=======
+
+Idiopathic avascular necrosis of femoral head in children = {{c1::Legg-Calvé-Perthes Disease}}
+
+=======
+
+Prominent tender tibial tubercle from overuse injury in adolescent runners/jumpers = {{c1::Osgood-Schlatter Disease}}
+
+=======
+
+SCFE is seen in {{c1::obese male adolescents::demographic?}}
+
+=======
+
+SCFE management: {{c1::Urgent surgery (prevent avascular necrosis of femoral head)}}
+
+=======
+
+Most common cause of heel pain in children and adolescents = {{c1::Calcaneal apophysitis (Sever disease)}}
+
+=======
+
+Calcaneal squeeze test is positive in {{c1::Calcaneal apophysitis (Sever's disease)}} and {{c2::Calcaneal stress fracture}}
+
+=======
+
+Achilles tendon pulls on and irritate the heel bone growth plate: {{c1::Calcaneal apophysitis (Sever's disease)}}
+
+=======
+
+Most common cause of Sever's disease = {{c1::Growth spurt}}
+
+=======
+
+{{c1::Ramsay Hunt Syndrome}}: Reactivation of {{c2::varicella-zoster}} in {{c3::CN VII}}
+
+=======
+
+{{c1::Ipsilateral facial paralysis}} + {{c2::Ear pain}} + {{c3::Vesicular ear rash}} = {{c4::Ramsay Hunt Syndrome}}
+
+=======
+
+Ramsay Hunt Syndrome tx: {{c1::Acyclovir}} + {{c2::Prednisone}}
+
+=======
+
+Child limps after recent viral illness = {{c1::Transient synovitis}}
+
+=======
+
+Ottawa rules determine if an {{c1::x-ray}} is required
+
+=======
+
+Ottawa ankle rules: {{c1::Pain in malleolar zone}} AND one of: {{c2::Bone tenderness of lateral malleolus}}, {{c3:: Bone tenderness of medial malleolus}}, {{c4::can't bear weight for 4 steps after injury and in ED}}
+
+=======
+
+Ottawa foot rules: {{c1::Pain in midfoot zone}} AND one of: {{c2::Bone tenderness of 5th metatarsal base}}, {{c3:: Bone tenderness of navicular}}, {{c4::can't bear weight for 4 steps after injury and in ED}}
+
+=======
+
+Foot dorsiflexion = {{c1::Deep peroneal nerve::nerve?}}
+
+=======
+
+Foot plantarflexion = {{c1::Tibial nerve::nerve?}}
+
+=======
+
+Acute uncomplicated cystitis drugs: {{c1::Nitrofurantoin}} or {{c2::TMP-SMX}} or {{c3::Fosfomycin}}
+
+=======
+
+Young woman with dysuria, frequency, suprapubic pain, positive nitrites → {{c1::uncomplicated::complicated/uncomplicated?}} cystitis
+
+=======
+
+Oseltamavir inhibits influenza {{c1::neuraminidase}}
+
+=======
+
+{{c1::Hemagluttinin}} attaches influenza virus to host cell by binding to {{c2::sialic acid}} on the surface of host respiratory cells
+
+=======
+
+{{c1::Neuraminidase}} cleaves {{c2::sialic acid}} residues from the host cell surface
+
+=======
+
+GI bleed with hemodynamic instability that doesn't resolve with IV crystalloids: {{c1::pRBCs;next step?}}
+
+=======
+
+What antibiotic to give in partial thickness burn? {{c1::Topical bacitracin}}
+
+=======
+
+Best way to reduce errors in transition of care between ED shifts? {{c1::Structured sign-out tool}}
