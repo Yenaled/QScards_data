@@ -1132,7 +1132,7 @@ Bordetella pertussis post-exposure prophylaxis for close contacts? {{c1::Yes (ma
 Confirm correct intubation tube placement w/: {{c1::eTCO2 monitoring}}
 
 ======= haS91X3AGIjq8
-0 6/12/2026 06:51 UTC
+0 6/12/2026 14:58 UTC
 
 Abrupt fever + pharyngitis + severe myalgia + signs of poor perfusion (pale, mottled skin) = {{c1::Meningococcemia}}
 
@@ -1147,15 +1147,15 @@ Most common complication of scaphoid fracture and why? {{c1::Avascular necrosis 
 First-line drug for passing kidney stone: {{c1::tamsulosin}}
 
 ======= hiYlYoLF8WBwH
-0 6/12/2026 06:51 UTC
-0 6/12/2026 06:51 UTC
-0 6/12/2026 06:51 UTC
-0 6/12/2026 06:51 UTC
+3 6/15/2026 14:48 UTC
+3 6/15/2026 14:48 UTC
+3 6/15/2026 14:48 UTC
+3 6/15/2026 14:48 UTC
 
 Unshockable pulseless rhythms: {{c1::Asystole}} and {{c2::PEA}}; Tx after CPR: {{c3::Epinephrine}} & {{c4::Tx reversible causes (H's and T's)}}
 
 ======= iVcZIj6mSvjb7
-0 6/12/2026 06:51 UTC
+0 6/12/2026 14:58 UTC
 
 SvO2 is {{c1::low::high/low?}} in hypovolemic shock
 
@@ -1179,16 +1179,16 @@ Contralateral homonymous hemianopsia {{c1::without::with/without}} macular spari
 {{c1::Ramsay Hunt Syndrome}}: Reactivation of {{c2::varicella-zoster}} in {{c3::CN VII}}
 
 ======= k5wv9b51GaB1V
-0 6/12/2026 06:51 UTC
-0 6/12/2026 06:51 UTC
-0 6/12/2026 06:51 UTC
-0 6/12/2026 06:51 UTC
+0 6/12/2026 14:58 UTC
+0 6/12/2026 14:58 UTC
+0 6/12/2026 14:58 UTC
+0 6/12/2026 14:59 UTC
 
 PPV {{c1::↓::↑↓?}} RV preload, {{c2::↑::↑↓?}} RV afterload, {{c3::↓::↑↓?}} LV preload, {{c4::::↓::↑↓?}} LV afterload.
 
 ======= kOmSnDx65o7Qo
-0 6/12/2026 06:51 UTC
-0 6/12/2026 06:51 UTC
+3 6/15/2026 14:49 UTC
+3 6/15/2026 14:49 UTC
 
 Pulseless patients should never get {{c1::synchronized cardioversion::shock type?}}; patients w/ pulse should never get {{c2::defib::shock type?}}
 
@@ -1198,7 +1198,7 @@ Pulseless patients should never get {{c1::synchronized cardioversion::shock type
 First-line tx for meningitis in immunocompromised & adults >50 (3 drugs): {{c1::vancomycin + ceftriaxone + ampicillin}}
 
 ======= lHAvKoA6F3LI7
-0 6/12/2026 06:51 UTC
+3 6/15/2026 14:49 UTC
 
 First step of cholinergic/organophosphate poisoning (w/ ABCs): {{c1::Removal of clothing and give first responders PPE}}
 
@@ -1208,31 +1208,31 @@ First step of cholinergic/organophosphate poisoning (w/ ABCs): {{c1::Removal of 
 IIH tx? {{c1::Acetazolamide}}
 
 ======= liIzu7lpx34rP
-0 6/12/2026 06:51 UTC
-0 6/12/2026 06:51 UTC
-0 6/12/2026 06:51 UTC
-0 6/12/2026 06:51 UTC
+0 6/12/2026 14:59 UTC
+0 6/12/2026 14:59 UTC
+0 6/12/2026 14:59 UTC
+0 6/12/2026 14:59 UTC
 
 {{c1::Abdominal colic}} + {{c2::Microcytic anemia with basophilic stippling}} + {{c3::Peripheral neuropathy}} = {{c4::Lead poisoning}}
 
 ======= lzU2xU9RPdECo
-0 6/12/2026 06:51 UTC
-0 6/12/2026 06:51 UTC
+0 6/12/2026 14:59 UTC
+3 6/15/2026 14:49 UTC
 
 Hydrofluoric acid skin exposure treatment: 1) {{c1::Flush copiously}}, 2) {{c2::Apply calcium gluconate gel}}
 
 ======= m6sZXrmnhIjlT
-0 6/12/2026 06:51 UTC
+3 6/15/2026 14:50 UTC
 
 Vertical nystagmus + violent agitation + psychosis = {{c1::PCP intoxication}}
 
 ======= mHn7CX9ky57VF
-0 6/12/2026 06:51 UTC
+3 6/15/2026 14:50 UTC
 
 PCP and Ketamine are {{c1::NMDA antagonists::MOA?}}
 
 ======= mVc0OyeIOfME6
-0 6/12/2026 06:51 UTC
+0 6/12/2026 15:00 UTC
 
 TRALI and TACO: Which one to treat with or avoid furosemide? {{c1::Tx in TACO, avoid in TRALI}}
 
@@ -1242,7 +1242,7 @@ TRALI and TACO: Which one to treat with or avoid furosemide? {{c1::Tx in TACO, a
 Abx prophylaxis for open fracture? {{c1::Cefazolin}}
 
 ======= mZcpl5I9elXh2
-0 6/12/2026 06:51 UTC
+3 6/15/2026 14:50 UTC
 
 Is PPV beneficial in decompensated HF? {{c1::Yes}}
 
@@ -1258,8 +1258,8 @@ Calcaneal squeeze test is positive in {{c1::Calcaneal apophysitis (Sever's disea
 Uremic platelet dysfunction: {{c1::Burr cells (sea urchin appearing RBCs}::abnormal cells}} on blood smear
 
 ======= mmCRGDjdOPrHa
-0 6/12/2026 06:51 UTC
-0 6/12/2026 06:51 UTC
+3 6/15/2026 14:50 UTC
+0 6/12/2026 15:00 UTC
 
 Drugs to treat cholinergic toxicity: 1) {{c1::Atropine}} (MOA: {{c2::antimuscarinic}}), 2) {{c2::Pralidoxime}} (MOA: {{c2::cholinesterase regenerator}})
 
@@ -1280,7 +1280,7 @@ Most common cause of Sever's disease = {{c1::Growth spurt}}
 ESRD + mucosal bleeding + normal platelet count/PT/PTT → {{c1::uremic platelet dysfunction::diagnosis}} → {{c2::give DDAVP::next step?}}
 
 ======= oOpcKD3yqLg5g
-0 6/12/2026 06:51 UTC
+0 6/12/2026 15:00 UTC
 
 Does Wallenberg (Lateral Medullary) cause either hemiparesis or vibration/proprioception loss? {{c1::No (only spinothalamic is affected because it's lateral)}}
 
@@ -1295,8 +1295,8 @@ In addition to ACLS, how to manage PEA/asystole? {{c1::5 H's and T's}}
 Abx prophylaxis for surgery? {{c1::Cefazolin}}
 
 ======= oz1dIjDAKIbi1
-0 6/12/2026 06:51 UTC
-0 6/12/2026 06:51 UTC
+0 6/12/2026 15:01 UTC
+3 6/15/2026 14:51 UTC
 
 Two things much higher in CN than CO toxicity: {{c1::Venous O2 sat}} and {{c2::Lactic HAGMA}}
 
@@ -1306,13 +1306,13 @@ Two things much higher in CN than CO toxicity: {{c1::Venous O2 sat}} and {{c2::L
 The dicrotic notch marks the beginning of {{c1::diastole}}
 
 ======= pNOL6nukGkiOt
-0 6/12/2026 06:51 UTC
+3 6/15/2026 14:51 UTC
 
 Aortic dissection vs. aneurysm rupture: {{c1::high in dissection, low in aneurysm::BP in each?}}
 
 ======= pT4Lg4QEDzIJi
-0 6/12/2026 06:51 UTC
-0 6/12/2026 06:51 UTC
+0 6/12/2026 15:01 UTC
+3 6/15/2026 14:51 UTC
 
 Medial medullary syndrome is caused by stroke to {{c1::ASA::blood vessel}} and affects cranial nerve(s) {{c2::CN XII}}
 
@@ -1345,7 +1345,7 @@ Aortic dissection: Most common cause = {{c1::Hypertension}}
 {{c1::Morphine (if needed)}} + {{c2::Oxygen (only if hypoxemic)}} + {{c3::Nitroglycerin}} + {{c4::Aspirin}} + {{c5::Beta-blocker}} + {{c6::Heparin}} + {{c7::Statin}} + {{c8::Another antiplatelet (P2Y12 inhibitor)}} used for {{c9::STEMI}}, {{c10::NSTEMI}}, {{c11::Unstable angina}}
 
 ======= qcNx92klGMPa7
-0 6/12/2026 06:51 UTC
+3 6/15/2026 14:51 UTC
 
 No pulse → {{c1::CPR (b/c cardiac arrest)::next step?}}
 
@@ -1357,13 +1357,13 @@ No pulse → {{c1::CPR (b/c cardiac arrest)::next step?}}
 Shortened, {{c1::externally}}-rotated leg due to {{c2::fall from elderly::most common injury cause?}} = {{c3::Hip fracture (e.g. femoral neck fracture)}}
 
 ======= qzcVNIlOblfiV
-0 6/12/2026 06:51 UTC
+3 6/15/2026 14:52 UTC
 
 ST elevations in leads II, III, aVF suggests MI in {{c1::PDA::coronary artery?}}
 
 ======= r8I7utRGbt4JD
-0 6/12/2026 06:51 UTC
-0 6/12/2026 06:51 UTC
+3 6/15/2026 14:52 UTC
+3 6/15/2026 14:52 UTC
 
 Dipyridamole = Antiplatelet that works by inhibiting {{c1::PDE3}}, increasing intracellular {{c2::cAMP}}
 
@@ -1373,7 +1373,7 @@ Dipyridamole = Antiplatelet that works by inhibiting {{c1::PDE3}}, increasing in
 Partial thickness burn is distinguished from superficial thickness burn by presence of {{c1::blisters}}
 
 ======= rc33OLmfaDh5q
-0 6/12/2026 06:51 UTC
+0 6/12/2026 15:02 UTC
 
 Worst complication of inhalant abuse? {{c1::fatal ventricular arrhythmias ("sudden sniffing death")}}
 
@@ -1383,7 +1383,7 @@ Worst complication of inhalant abuse? {{c1::fatal ventricular arrhythmias ("sudd
 Bordetella pertussis grows on what lab growth medium? {{c1::Regan-Lowe agar}}
 
 ======= s4ves1G17CD6D
-0 6/12/2026 06:51 UTC
+3 6/15/2026 14:52 UTC
 
 Use nitroglycerin in RV MI? {{c1::No (decreases preload)}}
 
