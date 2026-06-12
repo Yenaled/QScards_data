@@ -619,14 +619,14 @@ Cocaine-associated MI next step: {{c1::benzos}}
 
 ======= OjrPloXtMF6xi
 0 6/12/2026 14:46 UTC
-0 6/12/2026 06:51 UTC
-0 6/12/2026 06:51 UTC
-0 6/12/2026 06:51 UTC
+3 6/15/2026 14:38 UTC
+0 6/12/2026 14:48 UTC
+0 6/12/2026 14:48 UTC
 
 {{c1::Hypotension::vital abnormality?}} + {{c2::Bradycardia::vital abnormality?}} + {{c3::Hypoglycemia::lab abnormality?}} = {{c4::Beta blocker}} overdose
 
 ======= OlLi4BDoFS0QN
-0 6/12/2026 06:51 UTC
+3 6/15/2026 14:38 UTC
 
 CVP is {{c1::high::high/low?}} in obstructive shock
 
@@ -636,7 +636,7 @@ CVP is {{c1::high::high/low?}} in obstructive shock
 Water Bottle Sign (enlarged cardiac silhouette) on CXR suggests a massive {{c1::pericardial effusion}}.
 
 ======= PWaXePMxvjKqw
-0 6/12/2026 06:51 UTC
+3 6/15/2026 14:39 UTC
 
 Magnesium toxicity tx: {{c1::IV calcium gluconate}}
 
@@ -663,7 +663,7 @@ Hypertensive emergency + ischemic stroke or encephalopathy: Tx = {{c1::Nicardipi
 SCFE is seen in {{c1::obese male adolescents::demographic?}}
 
 ======= QJGUmpRAX3swB
-0 6/12/2026 06:51 UTC
+3 6/15/2026 14:39 UTC
 
 Is high pain tolerance found in PCP or MDMA intoxication? {{c1::PCP (same family as ketamine)}}
 
@@ -684,7 +684,7 @@ Acute intermittent porphyria treatment: {{c1::IV hemin}} + {{c2::glucose}}
 Suspected bacterial meningitis: What to give alongside abx? {{c1::dexamethasone}}
 
 ======= RKJFjJGE4Z6Bj
-0 6/12/2026 06:51 UTC
+0 6/12/2026 14:49 UTC
 
 Hemodynamically stable PE tx: {{c1::DOAC}}
 
@@ -717,7 +717,7 @@ Cardiogenic shock first-line drugs = {{c1::Dobutamine (inotropic support)}} + {{
 Neisseria grows on what lab growth medium? {{c1::Thayer-Martin chocolate agar (VPN agar)}}
 
 ======= Rssfdoo8DRZhp
-0 6/12/2026 06:51 UTC
+3 6/15/2026 14:41 UTC
 
 Vertebral artery dissection has signs of what stroke syndrome? {{c1::Lateral medullary syndrome (Wallenberg)}}
 
@@ -732,7 +732,7 @@ Child limps after recent viral illness = {{c1::Transient synovitis}}
 GI upset + coarse tremor + ataxia + confusion = {{c1::Lithium toxicity}}
 
 ======= SQtirZi6v2Xvh
-0 6/12/2026 06:51 UTC
+3 6/15/2026 14:41 UTC
 
 CVP is {{c1::high::high/low?}} in cardiogenic shock
 
@@ -744,12 +744,12 @@ CVP is {{c1::high::high/low?}} in cardiogenic shock
 Sudden severe headache + vomiting = Diagnosis: {{c1::subarachnoid hemorrhage}}. Next steps: 1) {{c2::Non-con head CT}}, 2) If normal, {{c3::LP (xanthochromia)}}
 
 ======= SdIkJCRglYBJa
-0 6/12/2026 06:51 UTC
+0 6/12/2026 14:51 UTC
 
 TRALI and TACO: Which one has hypertension vs. hypotension? {{c1::Hypertension in TACO, hypotension in TRALI}}
 
 ======= Sen6PdY5f0iHq
-0 6/12/2026 06:51 UTC
+3 6/15/2026 14:41 UTC
 
 Avascular necrosis of femoral head is due to disruption of {{c1::medial femoral circumflex artery::which artery?}}
 
@@ -759,18 +759,18 @@ Avascular necrosis of femoral head is due to disruption of {{c1::medial femoral 
 Lack of platelet aggregation with ristocetin, but corrected with normal plasma = {{c1::von Willebrand Disease}}
 
 ======= SllnuvDuI1sau
-0 6/12/2026 06:51 UTC
+3 6/15/2026 14:41 UTC
 
 Does Boerhaave have peritoneal signs? {{c1::Usually no}}
 
 ======= T194vpw34u8RE
-0 6/12/2026 06:51 UTC
+3 6/15/2026 14:42 UTC
 
 Violent behavior + Analgesia + Vertical nystagmus = {{c2::PCP intoxication}}
 
 ======= TcMVOt4G2Z9J8
-0 6/12/2026 06:51 UTC
-0 6/12/2026 06:51 UTC
+0 6/12/2026 14:52 UTC
+0 6/12/2026 14:52 UTC
 
 Dengue CBC abnormalities: {{c1::Thrombocytopenia}} + {{c2::Leukopenia}}
 
@@ -785,21 +785,21 @@ Tetanus prophylaxis: Fully vaccinated patient + dirty wound: {{c1::Tdap (if last
 AFib w/ RVR + hemodynamic instability → {{c1::Synchronized cardioversion::next step?}}
 
 ======= UeUKmkoFd7C38
-0 6/12/2026 06:51 UTC
-0 6/12/2026 06:51 UTC
-0 6/12/2026 06:51 UTC
-0 6/12/2026 06:51 UTC
+0 6/12/2026 14:52 UTC
+0 6/12/2026 14:53 UTC
+3 6/15/2026 14:43 UTC
+3 6/15/2026 14:43 UTC
 
 {{c1::vibration/proprioception loss}} + {{c2::hemiparesis}} + {{c3::ipsilateral tongue weakness}} = {{c4::Medial medullary syndrome}}
 
 ======= UgRZldaSGvF2c
-0 6/12/2026 06:51 UTC
+3 6/15/2026 14:43 UTC
 
 ST elevations on EKG w/ no troponins ordered: {{c1::Activate cath lab::next step?}}
 
 ======= V3IaQ3PPIowzl
-0 6/12/2026 06:51 UTC
-0 6/12/2026 06:51 UTC
+0 6/12/2026 14:53 UTC
+0 6/12/2026 14:53 UTC
 
 {{c1::Parkinsonism}} in miners and welders = {{c2::Manganism}}
 
@@ -821,17 +821,17 @@ First line tx for unruptured ectopic pregnancy? {{c1::Methotrexate}}
 Hypertensive emergency + preeclampsia/eclampsia: Tx = {{c1::Labetalol}} or {{c2::hydralazine}}
 
 ======= Vzjc6OcdGoP8b
-0 6/12/2026 06:51 UTC
+3 6/15/2026 14:43 UTC
 
 ST elevations in leads I, aVL suggests MI in {{c1::Lcx::coronary artery?}}
 
 ======= WUrbYkH9PNkFT
-0 6/12/2026 06:51 UTC
-0 6/12/2026 06:51 UTC
-0 6/12/2026 06:51 UTC
-0 6/12/2026 06:51 UTC
-0 6/12/2026 06:51 UTC
-0 6/12/2026 06:51 UTC
+0 6/12/2026 14:54 UTC
+3 6/15/2026 14:44 UTC
+3 6/15/2026 14:44 UTC
+0 6/12/2026 14:54 UTC
+0 6/12/2026 14:54 UTC
+3 6/15/2026 14:44 UTC
 
 {{c1::MAHA}} + {{c2::thrombocytopenia}} + {{c3::renal failure}} + {{c4::neuro changes}} + {{c5::fever}} = {{c6::TTP}}
 
@@ -842,18 +842,18 @@ ST elevations in leads I, aVL suggests MI in {{c1::Lcx::coronary artery?}}
 AVNRT treatment: {{c1::Vagal maneuvers::first line?}} → {{c2::Adenosine::second line?}}
 
 ======= WjkR0fJO1L6le
-0 6/12/2026 06:51 UTC
-0 6/12/2026 06:51 UTC
+3 6/15/2026 14:44 UTC
+3 6/15/2026 14:44 UTC
 
 {{c1::Dermatitis herpetiformis::Intensely itchy, blistering skin condition}} medical treatment: {{c2::Dapsone}}
 
 ======= WwKjL0en1kDtz
-0 6/12/2026 06:51 UTC
+3 6/15/2026 14:44 UTC
 
 CVP is {{c1::low::high/low?}} in distributive shock
 
 ======= XYUs3JdosbSqC
-0 6/12/2026 06:51 UTC
+3 6/15/2026 14:44 UTC
 
 Traveler from Africa w/ fever, chills, sweats, hemolytic anemia, splenomegaly → {{c1::Malaria}}
 
@@ -887,9 +887,9 @@ Acute asthma exacerbation → {{c1::Short-acting bronchodilators (SABA, SAMA)::F
 Abducted, externally rotated leg = {{c1::Anterior hip dislocation}} due to forced abduction from high-energy trauma.
 
 ======= YmvgPhgTI9JVc
-0 6/12/2026 06:51 UTC
-0 6/12/2026 06:51 UTC
-0 6/12/2026 06:51 UTC
+3 6/15/2026 14:44 UTC
+3 6/15/2026 14:44 UTC
+0 6/12/2026 14:54 UTC
 
 Arm held in slight {{c1::abduction}} and {{c2::external}} rotation = {{c3::Anterior shoulder dislocation}}
 
@@ -900,13 +900,13 @@ Arm held in slight {{c1::abduction}} and {{c2::external}} rotation = {{c3::Anter
 Gonococcal septic arthritis is diagnosed by synovial fluid analysis + {{c1::NAAT::study}} from {{c2::mucosal/urogenital site}}
 
 ======= Za3NsAPsKhstf
-0 6/12/2026 06:51 UTC
+0 6/12/2026 14:55 UTC
 
 Most widely rhythm control drug in symptomatic AFib: {{c1::Amio}}
 
 ======= ZkPhQBWBnF5CS
-0 6/12/2026 06:51 UTC
-0 6/12/2026 06:51 UTC
+3 6/15/2026 14:45 UTC
+3 6/15/2026 14:45 UTC
 
 CroFab antivenom major side effects: {{c1::anaphylaxis::immediate}} and {{c2::serum sickness::after 5-14 days}}
 
@@ -955,13 +955,13 @@ Posterior hip dislocation complications: {{c1::femoral head avascular necrosis (
 {{c1::Painful abdomen}} + {{c2::Psychiatric symptoms}} + {{c3::Polyneuropathy}}, + {{c4::Port-wine urine}} + {{c5::Precipitated by CYP450 inducing drugs}} = {{c6::Acute intermittent porphyria}}
 
 ======= a9UgcksghQU4a
-0 6/12/2026 06:51 UTC
-0 6/12/2026 06:51 UTC
+0 6/12/2026 14:55 UTC
+3 6/15/2026 14:45 UTC
 
 Drug-eluting stents vs bare metal stents: DES has {{c1::lower risk of restenosis::advantage?}} but requires {{c2::DAPT}} until endothelialization is complete
 
 ======= aVf1vRUXAI73V
-0 6/12/2026 06:51 UTC
+3 6/15/2026 14:45 UTC
 
 Seizure prophylaxis in preeclampsia: {{c1::IV magnesium sulfate}}
 
@@ -976,14 +976,14 @@ Renal failure: What type of heparin? {{c1::UFH (LMWH/enoxaparin renally cleared)
 Prominent tender tibial tubercle from overuse injury in adolescent runners/jumpers = {{c1::Osgood-Schlatter Disease}}
 
 ======= bAtbeukCeh7vW
-0 6/12/2026 06:51 UTC
-0 6/12/2026 06:51 UTC
-0 6/12/2026 06:51 UTC
+0 6/12/2026 14:56 UTC
+0 6/12/2026 14:56 UTC
+3 6/15/2026 14:46 UTC
 
 {{c1::Lateral medullary syndrome (Wallenburg)}} is caused by stroke to {{c2::ASA::blood vessel}} and affects cranial nerve(s) {{c3::CN V, nucleus ambiguus (CN IX, X)}}
 
 ======= bKRJpa8kwanui
-0 6/12/2026 06:51 UTC
+3 6/15/2026 14:46 UTC
 
 Breakbone fever = {{c1::Dengue}}
 
@@ -994,7 +994,7 @@ Breakbone fever = {{c1::Dengue}}
 When is PTU preferred over methimazole? {{c1::first trimester pregnancy}} & {{c2::thyroid storm}}
 
 ======= ctGD3WjdY8ZOi
-0 6/12/2026 06:51 UTC
+0 6/12/2026 14:56 UTC
 
 Vaginal bleeding + Dilated cervical os + No products of conception expelled + Possibly absent fetal heart sounds = {{c1::Inevitable}} abortion.
 
@@ -1014,7 +1014,7 @@ Vaginal bleeding + Dilated cervical os + No products of conception expelled + Po
 H. flu grows on what lab growth medium? {{c1::Chocolate agar}}
 
 ======= dKyw3SRZpysYS
-0 6/12/2026 06:51 UTC
+3 6/15/2026 14:46 UTC
 
 Unilateral decreased breath sounds & hyperinflation of lungs w/ mediastinal shift in a toddler = {{c1::Foreign body aspiration}}
 
@@ -1039,7 +1039,7 @@ Smoke inhalation + soot in airway + stridor → {{c1::Intubate::Next step?}}
 Unvaccinated patient + clean wound: {{c1::Tdap (no TIG)::what prophylaxis?}}
 
 ======= dpEofCYFM5byi
-0 6/12/2026 06:51 UTC
+3 6/15/2026 14:47 UTC
 
 Acute Limb Ischemia signs: Next step = {{c1::IV heparin}}
 
@@ -1055,18 +1055,18 @@ When is asymptomatic bacteriuria treated? {{c1::Pregnancy}}
 Hypertensive emergency + Acute cardiogenic flash pulmonary edema (SCAPE): {{c1::NIPPV}} + {{c2::IV nitroglycerin}}
 
 ======= eFMqzHso0Pj7g
-0 6/12/2026 06:51 UTC
+3 6/15/2026 14:47 UTC
 
 TRALI and TACO: Which one has fever? {{c1::TRALI (TRALI is inflammatory whereas TACO is fluid overload)}}
 
 ======= eFhRdwJDz2ezp
-0 6/12/2026 06:51 UTC
-0 6/12/2026 06:51 UTC
+0 6/12/2026 14:57 UTC
+0 6/12/2026 14:57 UTC
 
 HACE drug tx: {{c1::dexmethasone}}; HAPE drug tx: {{c2::Nifedipine}}
 
 ======= eP17tDqhqEToL
-0 6/12/2026 06:51 UTC
+0 6/12/2026 14:57 UTC
 
 Products of conception "Some expelled, some retained" = {{c1::Incomplete}} abortion
 
@@ -1076,12 +1076,12 @@ Products of conception "Some expelled, some retained" = {{c1::Incomplete}} abort
 Myocardial perfusion is higher during {{c1::diastole::systole/diastole}}
 
 ======= edDartTcsyr5M
-0 6/12/2026 06:51 UTC
+3 6/15/2026 14:47 UTC
 
 {{c1::Leriche syndrome}} = atherosclerotic obstruction of the distal abdominal aorta and/or iliac arteries
 
 ======= fIAJAgsgY9TiX
-0 6/12/2026 06:51 UTC
+3 6/15/2026 14:47 UTC
 
 Organism of concern in cat bite: {{c1::Pasteurella}}
 
@@ -1106,7 +1106,7 @@ COPD patient + oxygen administration + worsening mental status = {{c1::oxygen-in
 {{c1::Sudden unilateral pelvic/lower abdominal pain}} + {{c2::vomiting}} + {{c3::Adnexal mass}} = {{c4::Ovarian torsion}}
 
 ======= gqMdYQB1MkCjj
-0 6/12/2026 06:51 UTC
+3 6/15/2026 14:47 UTC
 
 Vaginal bleeding is absent in {{c1::missed}} abortion.
 
@@ -1127,7 +1127,7 @@ Tetanus prophylaxis: Fully vaccinated patient + clean wound: {{c1::Tdap (if last
 Bordetella pertussis post-exposure prophylaxis for close contacts? {{c1::Yes (macrolides)::yes/no?}}
 
 ======= hYOqYl1411H2A
-0 6/12/2026 06:51 UTC
+3 6/15/2026 14:47 UTC
 
 Confirm correct intubation tube placement w/: {{c1::eTCO2 monitoring}}
 
