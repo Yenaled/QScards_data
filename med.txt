@@ -4,7 +4,7 @@
 Patient with rebound tenderness: What pain medication to start? {{c1::IV opioids}}
 
 ======= 0J5XL7TR5Qez3
-0 6/12/2026 06:51 UTC
+3 6/15/2026 14:21 UTC
 
 Acidosis after seizure, next step: {{c1::Repeat labs later (transient lactic acidosis)}}
 
@@ -15,7 +15,7 @@ Acidosis after seizure, next step: {{c1::Repeat labs later (transient lactic aci
 Secondary postpartum hemorrhage (i.e. bleeding >24h postpartum) is due to: {{c1::Retained products}} and/or {{c2::Endometritis}}
 
 ======= 0nyYUWWm3VF1T
-0 6/12/2026 06:51 UTC
+3 6/15/2026 14:21 UTC
 
 Abrupt-onset cough and wheezing are unresponsive to albuterol in toddler = {{c1::Foreign body aspiration}}
 
@@ -33,22 +33,22 @@ Abrupt-onset cough and wheezing are unresponsive to albuterol in toddler = {{c1:
 Typical patient with IIH? {{c1::Obese woman}}
 
 ======= 1g93OTrkTg8wa
-0 6/12/2026 06:51 UTC
+0 6/12/2026 14:31 UTC
 
 Massive hemoptysis: Immediate next step = {{c1::lateral decubitus position with the bleeding lung down}}
 
 ======= 2BgShnI77FFht
-0 6/12/2026 06:51 UTC
+0 6/12/2026 14:32 UTC
 
 Anterolateral papillary muscle is supplied by {{c1::LCX and LAD (dual, so it is more protected)}}
 
 ======= 2DIeAuR5NfMPQ
-0 6/12/2026 06:51 UTC
+3 6/15/2026 14:22 UTC
 
 Foreign body aspiration is diagnosed with: {{c1::Rigid bronchoscopy (as many things are invisible on CXR)}}
 
 ======= 2HkZNqlSqYj7F
-0 6/12/2026 06:51 UTC
+3 6/15/2026 14:22 UTC
 
 SA node and AV node are supplied by {{c1::RCA}}
 
@@ -163,7 +163,7 @@ Foot plantarflexion = {{c1::Tibial nerve::nerve?}}
 ======= 6ZpVhvp1UpZBJ
 0 6/12/2026 07:30 UTC
 3 6/15/2026 06:57 UTC
-3 6/11/2026 18:51 UTC
+4 6/16/2026 14:19 UTC
 
 COPD patient + oxygen administration + worsening mental status = {{c1::oxygen-induced hypercapnia}} → {{c2::ABG::dx?}} → {{c3::NIPPV::if dx confirmed?}}
 
@@ -188,7 +188,7 @@ Amputated body part transport: {{c1::Wrap amputated part in saline gauze, seal i
 
 ======= 8bCGuaTQCdSpH
 4 6/16/2026 07:35 UTC
-3 6/11/2026 18:50 UTC
+0 6/12/2026 14:29 UTC
 
 Nonpurulent Cellulitis = commonly caused by {{c1::GAS}} and tx w/ {{c2::cephalexin}}
 
@@ -668,7 +668,7 @@ SCFE is seen in {{c1::obese male adolescents::demographic?}}
 Is high pain tolerance found in PCP or MDMA intoxication? {{c1::PCP (same family as ketamine)}}
 
 ======= QUBMWhPL8ySuM
-3 6/11/2026 18:51 UTC
+4 6/16/2026 14:19 UTC
 
 Prolonged QRS Interval (>100 ms) + sinus tachycardia = {{c1::TCA::drug class}} overdose
 
@@ -999,7 +999,7 @@ When is PTU preferred over methimazole? {{c1::first trimester pregnancy}} & {{c2
 Vaginal bleeding + Dilated cervical os + No products of conception expelled + Possibly absent fetal heart sounds = {{c1::Inevitable}} abortion.
 
 ======= cxoeDmDOdZxFs
-3 6/11/2026 18:51 UTC
+4 6/16/2026 14:19 UTC
 3 6/15/2026 06:54 UTC
 4 6/16/2026 14:17 UTC
 3 6/15/2026 07:00 UTC
@@ -1093,7 +1093,7 @@ COPD patient + oxygen administration + worsening mental status = {{c1::oxygen-in
 ======= fnYwrhicCrIRm
 4 6/16/2026 07:35 UTC
 3 6/15/2026 07:00 UTC
-3 6/11/2026 18:51 UTC
+4 6/16/2026 14:19 UTC
 
 {{c1::TCA}} cardiotoxicity and {{c2::aspirin}} toxicity are treated with {{c3::sodium bicarb}}
 
@@ -1160,7 +1160,7 @@ Unshockable pulseless rhythms: {{c1::Asystole}} and {{c2::PEA}}; Tx after CPR: {
 SvO2 is {{c1::low::high/low?}} in hypovolemic shock
 
 ======= jof7zBNzf9gRN
-3 6/11/2026 18:50 UTC
+4 6/16/2026 14:19 UTC
 3 6/15/2026 07:03 UTC
 
 Hypertensive emergency + Aortic dissection: Tx = {{c1::Esmolol}} then {{c2::nitroprusside}}
@@ -1331,9 +1331,9 @@ Aortic dissection: Most common cause = {{c1::Hypertension}}
 
 ======= qAmKeW7BrKRoe
 4 6/16/2026 07:35 UTC
-3 6/11/2026 18:51 UTC
+4 6/16/2026 14:20 UTC
 3 6/15/2026 07:21 UTC
-3 6/11/2026 18:49 UTC
+4 6/16/2026 14:18 UTC
 3 6/15/2026 06:58 UTC
 0 6/12/2026 07:16 UTC
 0 6/12/2026 07:08 UTC
@@ -1548,7 +1548,7 @@ MCA strokes vs. ACA strokes: which one has more contralateral upper/lower extrem
 
 ======= yiClAFzVb9iNP
 4 6/16/2026 07:35 UTC
-3 6/11/2026 18:52 UTC
+0 6/12/2026 14:31 UTC
 
 Suspected acute aortic dissection → diagnose with {{c1::CT angiography}} if stable; {{c2::TEE}} if unstable
 
