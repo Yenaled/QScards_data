@@ -62,7 +62,7 @@ SA node and AV node are supplied by {{c1::RCA}}
 {{c1::Port-wine stain}} + {{c2::Leptomeningeal angiomas}} + {{c3::Seizures}} + {{c4::Glaucoma}} = {{c5::Sturge–Weber syndrome}}
 
 ======= 2eaute6RRL0mM
-0 6/12/2026 06:51 UTC
+0 6/12/2026 14:34 UTC
 
 Severe headache with retro-orbital pain and fever = {{c1::Dengue}}
 
@@ -72,9 +72,9 @@ Severe headache with retro-orbital pain and fever = {{c1::Dengue}}
 Most common cause of heel pain in children and adolescents = {{c1::Calcaneal apophysitis (Sever disease)}}
 
 ======= 37K0SmgGwSPPA
-0 6/12/2026 06:51 UTC
-0 6/12/2026 06:51 UTC
-0 6/12/2026 06:51 UTC
+3 6/15/2026 14:24 UTC
+0 6/12/2026 14:34 UTC
+3 6/15/2026 14:24 UTC
 
 Hyperthermia + {{c1::Hyponatremia::lab abnormality?}} + {{c2::Serotonin excess (agitation, clonus, hyperreflexia)::neuro/psych findings}} = {{c3::MDMA intoxication}}
 
@@ -90,45 +90,45 @@ Shortened, internally rotated, adducted leg after {{c1::dashboard injury::most c
 First step in both DKA and HHS: {{c1::IV LR/NS (bolus)}}
 
 ======= 3kdfOsosEF7WY
-0 6/12/2026 06:51 UTC
-0 6/12/2026 06:51 UTC
-0 6/12/2026 06:51 UTC
-0 6/12/2026 06:51 UTC
+0 6/12/2026 14:34 UTC
+0 6/12/2026 14:34 UTC
+0 6/12/2026 14:34 UTC
+0 6/12/2026 14:35 UTC
 
 {{c1::GI toxicity (corrosive)}} + {{c2::Lactic HAGMA}} + {{c3::Shock}} = {{c4::Iron poisoning}}
 
 ======= 3xWOA7pepzsyj
-0 6/12/2026 06:51 UTC
-0 6/12/2026 06:51 UTC
-0 6/12/2026 06:51 UTC
+3 6/15/2026 14:25 UTC
+3 6/15/2026 14:25 UTC
+3 6/15/2026 14:25 UTC
 
 Bugs that require chemoprophylaxis of close contacts: 1) {{c1::Neisseria meningitidis (rifampin)}}, 2) {{c2::Hib (rifampin)}}, 3) {{c3::Pertussis (azithro)}}
 
 ======= 40q9WKMrrEmZ2
-0 6/12/2026 06:51 UTC
+3 6/15/2026 14:26 UTC
 
 Chemical in household rust removers that causes deep tissue damage? {{c1::Hydrofluoric acid}}
 
 ======= 45jd5K4mQBxfy
-0 6/12/2026 06:51 UTC
-0 6/12/2026 06:51 UTC
-0 6/12/2026 06:51 UTC
+0 6/12/2026 14:36 UTC
+3 6/15/2026 14:26 UTC
+0 6/12/2026 14:36 UTC
 
 RV MI unlike LV MI has {{c1::Epigastric pain::pain location?}}, {{c2::Absent SOB::SOB?}}, and {{c3::hypotension (b/c preload dependent)::vitals difference}}
 
 ======= 48qQLHNoCAb0Y
-0 6/12/2026 06:51 UTC
-0 6/12/2026 06:51 UTC
+3 6/15/2026 14:26 UTC
+3 6/15/2026 14:26 UTC
 
 {{c1::Perioral rash::Classic sign}} + Chemical odor on breath/clothes = {{c2::Inhalant abuse}}
 
 ======= 4WNK4o5hxci7C
-0 6/12/2026 06:51 UTC
+3 6/15/2026 14:26 UTC
 
 Neurogenic shock = Distributive shock + {{c1::bradycardia (low CO)}}
 
 ======= 4hDnvrY8azjZ9
-0 6/12/2026 06:51 UTC
+3 6/15/2026 14:27 UTC
 
 Succimer is used to treat {{c1::lead poisoning}}
 
@@ -143,7 +143,7 @@ GI bleed with hemodynamic instability that doesn't resolve with IV crystalloids:
 What antibiotic to give in partial thickness burn? {{c1::Topical bacitracin}}
 
 ======= 55752uFeaXHoQ
-0 6/12/2026 06:51 UTC
+3 6/15/2026 14:27 UTC
 
 WPW treatment: {{c1::Catheter ablation}}
 
