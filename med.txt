@@ -148,10 +148,10 @@ What antibiotic to give in partial thickness burn? {{c1::Topical bacitracin}}
 WPW treatment: {{c1::Catheter ablation}}
 
 ======= 5VdNhMmC0JENk
-0 6/12/2026 06:51 UTC
-0 6/12/2026 06:51 UTC
-0 6/12/2026 06:51 UTC
-0 6/12/2026 06:51 UTC
+3 6/15/2026 14:27 UTC
+3 6/15/2026 14:27 UTC
+3 6/15/2026 14:28 UTC
+3 6/15/2026 14:28 UTC
 
 Shockable pulseless rhythms? {{c1::VFib}} and {{c2::pulseless VTach}}; Shock type: {{c3::Defib}}: Drugs: {{c4::epinephrine}} followed by {{c2::amio}}
 
@@ -174,7 +174,7 @@ COPD patient + oxygen administration + worsening mental status = {{c1::oxygen-in
 Acute pancreatitis management? {{c1::IV LR (bolus)}} + {{c2::IV opioids}}
 
 ======= 7K0YPG4gwriij
-0 6/12/2026 06:51 UTC
+3 6/15/2026 14:28 UTC
 
 Amputated body part transport: {{c1::Wrap amputated part in saline gauze, seal in a bag, place bag in ice water}}
 
@@ -216,7 +216,7 @@ Abx prophylaxis for human/dog/cat bite? {{c1::Yes, amox-clav}}
 Abx for road rash? {{c1::None}}
 
 ======= 9mA8oN2NPmHOC
-0 6/12/2026 06:51 UTC
+0 6/12/2026 14:38 UTC
 
 Fetal cardiac activity is present in {{c1::threatened}} abortion.
 
@@ -232,19 +232,19 @@ The dicrotic notch occurs when the {{c1::aortic valve::which valve?}} {{c2::clos
 Postpartum endometritis treatment (2 abx): {{c1::Clindamycin + Gentamicin}}
 
 ======= AqXQUticOF95a
-0 6/12/2026 06:51 UTC
-0 6/12/2026 06:51 UTC
+3 6/15/2026 14:28 UTC
+3 6/15/2026 14:28 UTC
 
 Anterior shoulder dislocation is due to {{c1::FOOSH}} or {{c2::Direct blow}}
 
 ======= AtSvI8qn5GwhO
-0 6/12/2026 06:51 UTC
-0 6/12/2026 06:51 UTC
+0 6/12/2026 14:40 UTC
+3 6/15/2026 14:30 UTC
 
 Ocular Signs in MDMA intoxication vs. PCP intoxication: {{c1::Mydrasis}} in MDMA and {{c2::Vertical nystagmus}} in PCP
 
 ======= BBM6D3pPwterf
-0 6/12/2026 06:51 UTC
+3 6/15/2026 14:30 UTC
 
 Chest pain + nose bleed = intoxication with {{c1::cocaine}}
 
@@ -254,12 +254,12 @@ Chest pain + nose bleed = intoxication with {{c1::cocaine}}
 Monitor response to tx for DKA: {{c1::anion gap}}
 
 ======= BR4SffLjnIFKb
-0 6/12/2026 06:51 UTC
+3 6/15/2026 14:31 UTC
 
 Absent pulses + sensory loss + motor weakness = {{c1::Acute limb ischemia}}
 
 ======= BTlU8DMpehc3s
-0 6/12/2026 06:51 UTC
+0 6/12/2026 14:41 UTC
 
 Flaccid paralysis + high WBCs in CSF + AMS = {{c1::West Nile}}
 
@@ -277,15 +277,15 @@ Primary postpartum hemorrhage (i.e. bleeding <24h postpartum) is most commonly d
 {{c1::Postprandial abdominal pain}} + {{c2::food fear}} + {{c3::weight loss}} = {{c4::chronic mesenteric ischemia}}
 
 ======= BtIxVfNBFb0FI
-0 6/12/2026 06:51 UTC
-0 6/12/2026 06:51 UTC
+0 6/12/2026 14:41 UTC
+0 6/12/2026 14:41 UTC
 
 Intubation tube in right main bronchus symptoms: {{c1::asymmetric chest expansion}} + {{c2::decreased breath sounds on the left}}
 
 ======= CFqAsZtpKfA8A
-0 6/12/2026 06:51 UTC
-0 6/12/2026 06:51 UTC
-0 6/12/2026 06:51 UTC
+3 6/15/2026 14:31 UTC
+3 6/15/2026 14:31 UTC
+0 6/12/2026 14:41 UTC
 
 Elevated {{c1::creatinine}} after {{c2::ACEi}} administration = {{c3::bilateral renal artery stenosis}}
 
@@ -303,8 +303,8 @@ Monitor response to tx for HHS: {{c1::serum osmolality}} + {{c2::mental status}}
 {{c1::Dashboard injury::Injury mechanism?}} most commonly causes {{c2::Posterior hip dislocation}} and {{c3::PCL tear}}
 
 ======= CnfF5loTEljiZ
-0 6/12/2026 06:51 UTC
-0 6/12/2026 06:51 UTC
+3 6/15/2026 14:31 UTC
+3 6/15/2026 14:31 UTC
 
 {{c1::Gastrografin water-contrast esophagography}} is used to diagnose {{c2::esophageal perforation}}
 
@@ -328,7 +328,7 @@ Ottawa foot rules: {{c1::Pain in midfoot zone}} AND one of: {{c2::Bone tendernes
 Most noticeable sign of aspirin toxicity: {{c1::tinnitus}}
 
 ======= D9XWU0amyEfgt
-0 6/12/2026 06:51 UTC
+3 6/15/2026 14:32 UTC
 
 Any ACS: most important drug = {{c1::Aspirin}}
 
@@ -343,7 +343,7 @@ Femoral neck fracture is an emergency because {{c1::avascular necrosis}}
 Polyuria/polydipsia + Weight loss + Dehydration + Tachypnea = {{c1::DKA}}
 
 ======= Dr5WzHAbNuTzB
-0 6/12/2026 06:51 UTC
+3 6/15/2026 14:32 UTC
 
 Posteromedial papillary muscle is supplied by {{c1::PDA (single supply, so it is vulnerable)}}
 
@@ -371,33 +371,33 @@ Massive PE treatment: {{c1::tPA}} + {{c2::heparin (UFH)}}
 {{c1::Neuraminidase}} cleaves {{c2::sialic acid}} residues from the host cell surface
 
 ======= FAhB0XTYN90LA
-0 6/12/2026 06:51 UTC
-0 6/12/2026 06:51 UTC
-0 6/12/2026 06:51 UTC
-0 6/12/2026 06:51 UTC
+0 6/12/2026 14:42 UTC
+0 6/12/2026 14:42 UTC
+3 6/15/2026 14:32 UTC
+3 6/15/2026 14:32 UTC
 
 {{c1::Thrombocytopenia::lab abnormality}}, {{c2::elevated LFTs::lab abnormality}}, and {{c3::hyponatremia::lab abnormality}} w/ rash = {{c4::RMSF::Which microbe?}}
 
 ======= FxgEm23xj77i6
-0 6/12/2026 06:51 UTC
+3 6/15/2026 14:32 UTC
 
 Myasthenia gravis is treated with {{c1::pyridostigmine}}
 
 ======= G3tGdsPqZQEnp
-0 6/12/2026 06:51 UTC
-0 6/12/2026 06:51 UTC
-0 6/12/2026 06:51 UTC
+3 6/15/2026 14:32 UTC
+3 6/15/2026 14:32 UTC
+3 6/15/2026 14:32 UTC
 
 {{c1::Cyanosis}} + {{c2::Saturation gap (Normal ABG PaO2 but pulse ox ~85%)}} + {{c3::Chocolate-brown blood}} = Methemoglobinemia
 
 ======= GbY3XssjZqbqi
-0 6/12/2026 06:51 UTC
-0 6/12/2026 06:51 UTC
+3 6/15/2026 14:33 UTC
+3 6/15/2026 14:33 UTC
 
 Does lead poisoning cause AGMA? {{c1::No}}. Iron poisoning? {{c2::Yes}}.
 
 ======= GfYT82NxzHSt6
-0 6/12/2026 06:51 UTC
+3 6/15/2026 14:33 UTC
 
 PCWP is {{c1::low::high/low?}} in obstructive shock except for {{c1::tamponade (paradoxical elevation)}}
 
@@ -413,7 +413,7 @@ Cholecystitis causes referred pain to {{c1::right shoulder}}
 Tx for hepatic encephalopathy: {{c1::rifaximin}} + {{c2::lactulose}}
 
 ======= Hbf3HPDbVetZh
-0 6/12/2026 06:51 UTC
+3 6/15/2026 14:33 UTC
 
 Leriche syndrome: initial diagnostic test = {{c1::ABI < 0.90}}
 
@@ -442,27 +442,27 @@ Foot dorsiflexion = {{c1::Deep peroneal nerve::nerve?}}
 Highest amount of myocardial perfusion occurs immediately after {{c1::mitral valve::which valve?}} {{c2::opens::opens/closes}}
 
 ======= I7HiNcSwNutuT
-0 6/12/2026 06:51 UTC
+3 6/15/2026 14:33 UTC
 
 Treatment for methemoglobinemia: {{c1::methylene blue}}
 
 ======= IElbXzAxAJYUF
-0 6/12/2026 06:51 UTC
+0 6/12/2026 14:44 UTC
 
 Cyclopentolate eye drop toxicity is treated with {{c1::physostigmine}}
 
 ======= IFldtDzTvali7
-0 6/12/2026 06:51 UTC
-0 6/12/2026 06:51 UTC
-0 6/12/2026 06:51 UTC
-0 6/12/2026 06:51 UTC
+0 6/12/2026 14:44 UTC
+0 6/12/2026 14:44 UTC
+0 6/12/2026 14:44 UTC
+3 6/15/2026 14:34 UTC
 
 {{c1::Bilateral claudication}} + {{c2::Erectile dysfunction}} + {{c3::Decreased/absent femoral pulses}} = {{c4::Leriche syndrome}}
 
 ======= IG54PgCYbxq3X
-0 6/12/2026 06:51 UTC
-0 6/12/2026 06:51 UTC
-0 6/12/2026 06:51 UTC
+3 6/15/2026 14:34 UTC
+3 6/15/2026 14:34 UTC
+3 6/15/2026 14:34 UTC
 
 {{c1::Contralateral::contra/ipsi?}} body pain/temp loss + {{c2::Ipsilateral::contra/ipsi?}} face pain/temp loss = {{c3::Lateral Medullary syndrome (Wallenberg)}}
 
@@ -474,7 +474,7 @@ Cyclopentolate eye drop toxicity is treated with {{c1::physostigmine}}
 Acute uncomplicated cystitis drugs: {{c1::Nitrofurantoin}} or {{c2::TMP-SMX}} or {{c3::Fosfomycin}}
 
 ======= Iw3DObiI6rdfZ
-0 6/12/2026 06:51 UTC
+3 6/15/2026 14:34 UTC
 
 RV MI is caused by occlusion of {{c1::RCA}}
 
@@ -484,15 +484,15 @@ RV MI is caused by occlusion of {{c1::RCA}}
 What structural intervention can directly cause hepatic encephalopathy? {{c1::TIPS}}
 
 ======= Jgamy5PAwYCv3
-0 6/12/2026 06:51 UTC
+0 6/12/2026 14:44 UTC
 
 AFib + WPW (stable): {{c1::Procainamide (Class IA) (rhythm control)::Next step?}}
 
 ======= Jpq3rusmpClmL
-0 6/12/2026 06:51 UTC
-0 6/12/2026 06:51 UTC
-0 6/12/2026 06:51 UTC
-0 6/12/2026 06:51 UTC
+0 6/12/2026 14:45 UTC
+0 6/12/2026 14:45 UTC
+0 6/12/2026 14:45 UTC
+0 6/12/2026 14:45 UTC
 
 {{c1::Personality changes}} + {{c2::Intention Tremor}} + {{c3::Gingivitis}} = {{c4::Mercury poisoning}}
 
@@ -502,12 +502,12 @@ AFib + WPW (stable): {{c1::Procainamide (Class IA) (rhythm control)::Next step?}
 Aspirin toxicity acid-base balance: {{c1::Mixed (respiratory alkalosis followed by AGMA)}}
 
 ======= KATJGZMh8cGnq
-0 6/12/2026 06:51 UTC
+0 6/12/2026 14:45 UTC
 
 Somnolence, absent reflexes, respiratory depression = {{c1::magnesium toxicity}}
 
 ======= KQXnASbCOjfOZ
-0 6/12/2026 06:51 UTC
+0 6/12/2026 14:45 UTC
 
 Acute respiratory distress, hypoxemia, and new-onset bilateral infiltrates on chest X-ray 6 hours after blood transfusion = {{c1::TRALI or TACO::two possible pathologies}}
 
@@ -540,19 +540,19 @@ Non-displaced scaphoid fracture + normal initial wrist x-rays → {{c1::thumb sp
 Most wounds don't need Abx prophylaxis but most need irrigation and {{c1::tetanus prophylaxis}}.
 
 ======= Lwv4NgmjVmira
-0 6/12/2026 06:51 UTC
-0 6/12/2026 06:51 UTC
+3 6/15/2026 14:35 UTC
+3 6/15/2026 14:35 UTC
 
 Severe croup tx: {{c1::nebulized racemic epi}} + {{c2::dexamethasone}}
 
 ======= LzWvmJquaQrM9
-0 6/12/2026 06:51 UTC
+3 6/15/2026 14:35 UTC
 
 Is hyperreflexia and diaphoresis found in PCP or MDMA intoxication? {{c1::MDMA}}
 
 ======= M44H5icAbIwnx
-0 6/12/2026 06:51 UTC
-0 6/12/2026 06:51 UTC
+3 6/15/2026 14:35 UTC
+3 6/15/2026 14:35 UTC
 
 Wallenberg (Lateral Medullary) is caused by occlusion of {{c1::PICA}} or {{c2::Vertebral artery}}
 
@@ -564,7 +564,7 @@ Wallenberg (Lateral Medullary) is caused by occlusion of {{c1::PICA}} or {{c2::V
 Tension pneumothorax management: Unstable? 1) {{c1::Needle decompression}}, 2) {{c2::Chest tube (tube thoracostomy)}}. Stable? {{c3::Chest tube (tube thoracostomy)}}
 
 ======= MEDgE97B25Ihc
-0 6/12/2026 06:51 UTC
+3 6/15/2026 14:36 UTC
 
 CO is {{c1::high::high/low?}} in anaphylactic and septic shock
 
@@ -574,7 +574,7 @@ CO is {{c1::high::high/low?}} in anaphylactic and septic shock
 Cardiac tamponade is diagnosed with {{c1::TTE}}
 
 ======= NT5ruLyS6DNFI
-0 6/12/2026 06:51 UTC
+3 6/15/2026 14:36 UTC
 
 Trauma w/ blood at the urethral meatus or inability to void: {{c1::retrograde urethrography::next step?}}
 
@@ -584,13 +584,13 @@ Trauma w/ blood at the urethral meatus or inability to void: {{c1::retrograde ur
 Achilles tendon pulls on and irritate the heel bone growth plate: {{c1::Calcaneal apophysitis (Sever's disease)}}
 
 ======= NsGVsMnlD74hY
-0 6/12/2026 06:51 UTC
+0 6/12/2026 14:46 UTC
 
 Stable asymptomatic AFib with RVR treatment: {{c1::Beta blocker and non-DHP CCB (rate control)::two drug classes?}}
 
 ======= NwEmjeKCJrXBp
-0 6/12/2026 06:51 UTC
-0 6/12/2026 06:51 UTC
+0 6/12/2026 14:46 UTC
+0 6/12/2026 14:46 UTC
 
 Myasthenic crisis is treated with {{c1::Plasmapheresis}} or {{c2::IVIG}}
 
@@ -613,12 +613,12 @@ Ottawa ankle rules: {{c1::Pain in malleolar zone}} AND one of: {{c2::Bone tender
 Abx for superficial knife/bullet wounds? {{c1::None}}
 
 ======= ObarHsIT2xzIK
-0 6/12/2026 06:51 UTC
+3 6/15/2026 14:36 UTC
 
 Cocaine-associated MI next step: {{c1::benzos}}
 
 ======= OjrPloXtMF6xi
-0 6/12/2026 06:51 UTC
+0 6/12/2026 14:46 UTC
 0 6/12/2026 06:51 UTC
 0 6/12/2026 06:51 UTC
 0 6/12/2026 06:51 UTC
