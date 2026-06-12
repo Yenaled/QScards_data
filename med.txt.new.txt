@@ -322,7 +322,7 @@ Vertebral artery dissection has signs of what stroke syndrome? {{c1::Lateral med
 
 =======
 
-Abrupt fever + pharyngitis + severe myalgia + signs of poor perfusion (pale, mottled skin) = {{c1::Meningococcemia}
+Abrupt fever + pharyngitis + severe myalgia + signs of poor perfusion (pale, mottled skin) = {{c1::Meningococcemia}}
 
 =======
 
