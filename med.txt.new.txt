@@ -433,7 +433,7 @@ Magnesium toxicity tx: {{c1::IV calcium gluconate}}
 
 =======
 
-Seizure prophylaxis in preeclampsia: {{IV magnesium sulfate}}
+Seizure prophylaxis in preeclampsia: {{c1::IV magnesium sulfate}}
 
 =======
 
