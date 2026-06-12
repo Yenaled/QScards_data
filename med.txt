@@ -169,7 +169,7 @@ COPD patient + oxygen administration + worsening mental status = {{c1::oxygen-in
 
 ======= 6fpzqxP27f9T3
 3 6/15/2026 07:04 UTC
-3 6/11/2026 18:49 UTC
+4 6/16/2026 14:16 UTC
 
 Acute pancreatitis management? {{c1::IV LR (bolus)}} + {{c2::IV opioids}}
 
@@ -1001,7 +1001,7 @@ Vaginal bleeding + Dilated cervical os + No products of conception expelled + Po
 ======= cxoeDmDOdZxFs
 3 6/11/2026 18:51 UTC
 3 6/15/2026 06:54 UTC
-3 6/11/2026 18:49 UTC
+4 6/16/2026 14:17 UTC
 3 6/15/2026 07:00 UTC
 3 6/15/2026 07:19 UTC
 4 6/16/2026 07:34 UTC
@@ -1086,7 +1086,7 @@ Myocardial perfusion is higher during {{c1::diastole::systole/diastole}}
 Organism of concern in cat bite: {{c1::Pasteurella}}
 
 ======= fO0t0wgrA0QvZ
-3 6/11/2026 18:49 UTC
+4 6/16/2026 14:17 UTC
 
 COPD patient + oxygen administration + worsening mental status = {{c1::oxygen-induced hypercapnia}}
 
