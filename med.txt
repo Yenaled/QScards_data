@@ -200,7 +200,7 @@ Orthostatic syncope: First-line treatment in ED? {{c1::IV saline (bolus)}}
 ======= 8lTDtVBGrvmee
 0 6/12/2026 07:29 UTC
 3 6/15/2026 07:20 UTC
-0 6/12/2026 07:04 UTC
+0 6/12/2026 15:07 UTC
 4 6/16/2026 07:35 UTC
 
 {{c1::Migratory Polyarthralgia}} + {{c2::Tenosynovitis}} + {{c3::Dermatitis (painless, nonitchy)}} = {{c4::Disseminated Gonoccal Infection}}
@@ -530,7 +530,7 @@ Does Boerhaave syndrome have hematemesis? {{c1::No (but Mallory-Weiss does)}}
 {{c1::succinyl-CoA}} + {{c2::glycine}} are combined by {{c3::ALAS}} to form {{c4::dALA}}
 
 ======= Lj5tgVlczQSdA
-0 6/12/2026 07:07 UTC
+0 6/12/2026 15:07 UTC
 
 Non-displaced scaphoid fracture + normal initial wrist x-rays → {{c1::thumb spica splint (until union demonstrated with f/u x-rays)::next step?}}
 
@@ -706,7 +706,7 @@ Kidney stone is diagnosed w/ {{c1::Non-con CT}}
 Headache + papilledema + visual changes + tinnitus = {{c1::IIH}}
 
 ======= RiUBMTb5XdNpc
-0 6/12/2026 07:06 UTC
+3 6/15/2026 14:57 UTC
 3 6/15/2026 07:05 UTC
 
 Cardiogenic shock first-line drugs = {{c1::Dobutamine (inotropic support)}} + {{c2::Norepinephrine (pressor)}}
@@ -919,7 +919,7 @@ Ramsay Hunt Syndrome tx: {{c1::Acyclovir}} + {{c2::Prednisone}}
 ======= Zmm5FaxFPlVb7
 3 6/15/2026 07:26 UTC
 0 6/12/2026 07:08 UTC
-0 6/12/2026 07:04 UTC
+0 6/12/2026 15:07 UTC
 
 AECOPD → {{c1::Short-acting bronchodilators (SABA, SAMA)::First step?}} → {{c2::Systemic (not inhaled) corticosteroids::Second step?}} → {{c3::Target O2 to 88–92%::Third step?}}
 
@@ -1137,7 +1137,7 @@ Confirm correct intubation tube placement w/: {{c1::eTCO2 monitoring}}
 Abrupt fever + pharyngitis + severe myalgia + signs of poor perfusion (pale, mottled skin) = {{c1::Meningococcemia}}
 
 ======= hdx6RW1LLxIOV
-0 6/12/2026 07:04 UTC
+0 6/12/2026 15:07 UTC
 
 Most common complication of scaphoid fracture and why? {{c1::Avascular necrosis due to retrograde blood supply from radial artery}}
 
@@ -1399,17 +1399,17 @@ Tubo-ovarian Abscess is a complication of {{c1::PID}} and is diagnosed via {{c2:
 Heparin type with short half life + easily reversible: {{c1::UFH}}
 
 ======= senmDn0OjI7fn
-0 6/12/2026 06:51 UTC
+3 6/15/2026 14:53 UTC
 
 Biggest differentiator between meningococcal and pneumococcal meningitis: {{c1::Petechial rash}}
 
 ======= sygDMLNsmmiv8
-0 6/12/2026 06:51 UTC
+3 6/15/2026 14:54 UTC
 
 Dysphagia, hoarseness, Horner syndrome, ataxia are all symptoms of {{c1::Lateral medullary syndrome (Wallenberg)}}
 
 ======= t7Q6MVo7RhlvM
-0 6/12/2026 06:51 UTC
+3 6/15/2026 14:54 UTC
 
 ST elevations in precordial leads (V1-V6) suggests MI in {{c1::LAD::coronary artery?}}
 
@@ -1419,9 +1419,9 @@ ST elevations in precordial leads (V1-V6) suggests MI in {{c1::LAD::coronary art
 Monitor response to tx for hepatic encephalopathy: {{c1::mental status}}
 
 ======= tVmfQ3NbnODCA
-0 6/12/2026 06:51 UTC
-0 6/12/2026 06:51 UTC
-0 6/12/2026 06:51 UTC
+3 6/15/2026 14:54 UTC
+3 6/15/2026 14:54 UTC
+3 6/15/2026 14:54 UTC
 
 First-time seizure management: 1) {{c1::Metabolic / toxic cause assessment}}, 2) {{c2::Neuroimaging}}, 3) {{c3::EEG}}.
 
@@ -1431,7 +1431,7 @@ First-time seizure management: 1) {{c1::Metabolic / toxic cause assessment}}, 2)
 Abx for needlestick injury? {{c1::None}}
 
 ======= ts3VkkluyJZn7
-0 6/12/2026 06:51 UTC
+3 6/15/2026 14:54 UTC
 
 Mild croup (stridor only with agitation, no retractions or increased WOB): Tx = {{c1::Oral dexamethasone}}
 
@@ -1446,14 +1446,14 @@ Best way to reduce errors in transition of care between ED shifts? {{c1::Structu
 Nephrotic syndrome can cause hypercoagulability by {{c1::loss of ATIII}}
 
 ======= uumTZJEYWwytG
-0 6/12/2026 06:51 UTC
-0 6/12/2026 06:51 UTC
+3 6/15/2026 14:54 UTC
+0 6/12/2026 15:05 UTC
 
 Renal artery stenosis causes {{c1::hypo::hypo/hyper}}-kalemic metabolic {{c2::alkalosis::acidosis/alkalosis}}
 
 ======= uyKtMVu7Zyg4I
-0 6/12/2026 06:51 UTC
-0 6/12/2026 06:51 UTC
+0 6/12/2026 15:05 UTC
+0 6/12/2026 15:05 UTC
 
 Hallmark findings of HACE? {{c1::Ataxia}} and {{c2::AMS}}
 
@@ -1463,7 +1463,7 @@ Hallmark findings of HACE? {{c1::Ataxia}} and {{c2::AMS}}
 What type of meningitis causes petechiae/purpuric rash? {{c1::meningococcal (neisseria)}}
 
 ======= vEsdNZlI08Mh4
-0 6/12/2026 06:51 UTC
+3 6/15/2026 14:55 UTC
 
 Unstable SVT or unstable VTach w/ pulse: {{c1::Synchronized cardioversion::Next step?}}
 
@@ -1483,10 +1483,10 @@ How is genital herpes managed? {{c1::Outpatient PO acyclovir::inpatient/outpatie
 Idiopathic avascular necrosis of femoral head in children = {{c1::Legg-Calvé-Perthes Disease}}
 
 ======= w7KxfLW1mqY6i
-0 6/12/2026 06:51 UTC
-0 6/12/2026 06:51 UTC
-0 6/12/2026 06:51 UTC
-0 6/12/2026 06:51 UTC
+0 6/12/2026 15:06 UTC
+0 6/12/2026 15:06 UTC
+0 6/12/2026 15:06 UTC
+0 6/12/2026 15:06 UTC
 
 Most common causes of {{c1::Methemoglobinemia}}: {{c2::Benzocaine}}, {{c3::Dapsone}}, {{c4::Nitrates/Nitrites}}
 
@@ -1502,27 +1502,27 @@ Ottawa rules determine if an {{c1::x-ray}} is required
 Severe hypoglycemia w/o IV access: {{c1::glucagon (IM/SQ/intranasal)}}; w/ IV access: {{c2::IV hypertonic dextrose}}
 
 ======= wVR2uMm0uxDId
-0 6/12/2026 06:51 UTC
-0 6/12/2026 06:51 UTC
-0 6/12/2026 06:51 UTC
+0 6/12/2026 15:06 UTC
+0 6/12/2026 15:06 UTC
+0 6/12/2026 15:06 UTC
 
 West Nile: {{c1::Culex::type?}} mosquito, Dengue: {{c2::Aedes::type?}} mosquito, Malaria: {{c3::Anopheles::type?}} mosquito
 
 ======= wyS81OGUIckMU
-0 6/12/2026 06:51 UTC
+3 6/15/2026 14:56 UTC
 
 Measles, TB, Varicella require {{c1::airborne (not droplet)}} precautions
 
 ======= x64KB95utWWoJ
-0 6/12/2026 06:51 UTC
+3 6/15/2026 14:56 UTC
 
 Stable angina next step: {{c1::Stress test}}
 
 ======= xTj4i7DWlK789
-0 6/12/2026 06:51 UTC
-0 6/12/2026 06:51 UTC
-0 6/12/2026 06:51 UTC
-0 6/12/2026 06:51 UTC
+0 6/12/2026 15:06 UTC
+0 6/12/2026 15:06 UTC
+0 6/12/2026 15:06 UTC
+0 6/12/2026 15:06 UTC
 
 {{c1::Rice-water diarrhea}} + {{c2::garlic breath}} + {{c3::painful peripheral neuropathy}} = {{c4::Arsenic poisoning}}
 
@@ -1532,7 +1532,7 @@ Stable angina next step: {{c1::Stress test}}
 Stable gunshot wound with clear transabdominal trajectory = Next step: {{c1::ex-lap}}
 
 ======= xi84YBjiChxX1
-0 6/12/2026 06:51 UTC
+0 6/12/2026 15:06 UTC
 
 Most important thing to do in peripheral artery disease: {{c1::Smoking cessation}}
 
@@ -1542,7 +1542,7 @@ Most important thing to do in peripheral artery disease: {{c1::Smoking cessation
 Hypertensive emergency + Signs of flash pulmonary edema: Tx = {{c1::IV nitroglycerin}}
 
 ======= yPqUpR85WDzm5
-0 6/12/2026 06:51 UTC
+3 6/15/2026 14:56 UTC
 
 MCA strokes vs. ACA strokes: which one has more contralateral upper/lower extremity weakness: {{c1::MCA stroke = upper; ACA stroke = lower}}
 
@@ -1553,15 +1553,15 @@ MCA strokes vs. ACA strokes: which one has more contralateral upper/lower extrem
 Suspected acute aortic dissection → diagnose with {{c1::CT angiography}} if stable; {{c2::TEE}} if unstable
 
 ======= yw1UN87nHbDaY
-0 6/12/2026 06:51 UTC
+0 6/12/2026 15:07 UTC
 
 ACS most important drug: {{c1::Activate cath lab::next step?}}
 
 ======= zn8WSsrsyHAzD
-0 6/12/2026 06:51 UTC
-0 6/12/2026 06:51 UTC
-0 6/12/2026 06:51 UTC
-0 6/12/2026 06:51 UTC
+0 6/12/2026 15:07 UTC
+0 6/12/2026 15:07 UTC
+0 6/12/2026 15:07 UTC
+0 6/12/2026 15:07 UTC
 
 {{c1::Liver disease (hepatitis/cirrhosis)}} + {{c2::Neurologic movement/speech problems}} + {{c3::Mood symptoms}} = {{c4::Wilson disease}}
 
