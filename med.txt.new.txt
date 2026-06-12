@@ -25,7 +25,7 @@ No pulse → {{c1::CPR (b/c cardiac arrest)::next step?}}
 
 =======
 
-Shockable pulseless rhythms? {{c1::VFib}} and {{c2::pulseless VTach}}; Shock type: {{c3::Defib}}: Drugs: {{c4::epinephrine}} followed by {{c2::5mio}}
+Shockable pulseless rhythms? {{c1::VFib}} and {{c2::pulseless VTach}}; Shock type: {{c3::Defib}}: Drugs: {{c4::epinephrine}} followed by {{c2::amio}}
 
 =======
 
