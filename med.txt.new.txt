@@ -517,3 +517,7 @@ Leriche syndrome: initial diagnostic test = {{c1::ABI < 0.90}}
 
 
 Most important thing to do in peripheral artery disease: {{c1::Smoking cessation}}
+
+=======
+
+Avascular necrosis of femoral head is due to disruption of {{c1::medial femoral circumflex artery::which artery?}}
