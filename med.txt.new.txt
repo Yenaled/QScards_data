@@ -33,3 +33,11 @@ Cholangitis tx = {{c1::IV abx}} + {{c2::ERCP}}
 =======
 
 Choledocholithiasis tx: {{c1::ERCP}}
+
+=======
+
+Cholecystitis imaging: 1) {{c1::US}}, 2) {{c2::HIDA}} (if equivocal)
+
+=======
+
+Gallbladder wall thickening + pericholecystic fluid = {{c1::cholecystitis}}
