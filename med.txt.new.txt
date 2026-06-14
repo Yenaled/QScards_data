@@ -1,0 +1,35 @@
+=======
+
+DKA tx w/ IV saline complication: {{c1::Cerebral edema}}
+
+=======
+
+Mono-like symptoms ({{c1::Fever}} + {{c2::Pharyngitis}} + {{c3::Lymphadenopathy}}) + {{c4::Diffuse rash}} + Oral ulcers = {{c5::Acute HIV infection}}
+
+=======
+
+Pneumocystis jirovecii tx: {{c1::TMP-SMX}}
+
+=======
+
+Most common viral pathogen in transplants: {{c1::CMV}}
+
+=======
+
+CMV antiviral drug = {{c1::(Val)ganciclovir}}
+
+=======
+
+Cholecystitis treatment in poor surgical candidates: {{c1::IV abx}} + {{c2::Percutaneous cholecystostomy}}
+
+=======
+
+Cholecystitis treatment in stable patients: {{c1::IV abx}} + {{c2::Lap Cholecystectomy}}
+
+=======
+
+Cholangitis tx = {{c1::IV abx}} + {{c2::ERCP}}
+
+=======
+
+Choledocholithiasis tx: {{c1::ERCP}}
